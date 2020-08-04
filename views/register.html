@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Ancestral Lens</title>
+		<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+		<style>
+			body {
+				height: 100vh;
+				background-image: url("image/tiled_background.jpg");
+				display: flex;
+			  align-items: center;
+			  justify-content: center;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="login-form w3-white w3-card-2 w3-round-large w3-animate-top w3-padding w3-center">
+			<h1>Welcome!</h1>
+			<h3>to Ancestral Lens</h3>
+			<br>
+			<form name="myForm" action="regist" method="POST" class="w3-margin-bottom">
+				<input type="text" name="username" placeholder="Username" class="w3-input w3-margin-bottom">
+                <input type="text" name="email" placeholder="Email" class="w3-input w3-margin-bottom">
+				<input type="password" name="password" placeholder="Password" class="w3-input w3-margin-bottom">
+                <input type="password" name="passwordConfirm" placeholder="Re-enter Password" class="w3-input w3-margin-bottom">
+				<br>
+				<input type="button" onclick="validateForm()" value="register" class="w3-button w3-black w3-block w3-round-xxlarge">
+			</form>
+			<p>Already have an account? <a href="/">Sign In</a></p>
+		</div>
+		<script src="/js/register.js"></script>
+	</body>
+</html>

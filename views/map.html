@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+        <title>Ancestral Lens</title>
+        <link rel="icon" href="icon/al_logo.png" type="image/icon type">
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.0.3/dist/leaflet.css"/>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol@0.72.0/dist/L.Control.Locate.min.css"/>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-routing-machine@3.2.11/dist/leaflet-routing-machine.min.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css"></script>
+        <script src="https://cdn.jsdelivr.net/npm/leaflet@1.0.3/dist/leaflet.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol@0.72.0/src/L.Control.Locate.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/leaflet-routing-machine@3.2.11/dist/leaflet-routing-machine.min.js"></script>
+    </head>
+    <body style="margin: 0; width: 100%; height: 100vh; overflow: hidden;">
+        <div id="mymap" style="width: 100%; height: 100%;"></div>
+        
+        <div id="profile-pane" style="overflow-y: scroll">
+            <div class="w3-display-container" style="height: 250px">
+                <div class="w3-margin">
+                    <div class="w3-display-container square-button" id="home-btn">
+                        <i class="fa fa-home w3-display-middle"></i>
+                    </div>
+                    <div class="w3-display-container square-button" id="search-user-btn">
+                        <i class="fa fa-search w3-display-middle"></i>
+                    </div>
+                    <div class="w3-display-container square-button" id="log-out-btn">
+                        <i class="fa fa-sign-out-alt w3-display-middle"></i>
+                    </div>
+                </div>
+                <div class="w3-display-bottomleft  w3-margin">
+                    <div class="w3-display-container square-button" id="write-btn">
+                        <i class="fa fa-pen w3-display-middle"></i>
+                    </div>
+                    <div class="w3-display-container square-button" id="image-btn">
+                        <i class="fa fa-image w3-display-middle"></i>
+                    </div>
+                </div>
+                <h1 class="w3-display-topmiddle w3-xlarge">Profile</h1>
+                <img src="icon/al_logo.png" class="w3-display-middle" style="width: 150px; height: 150px;">
+                <h2 class="w3-display-bottommiddle w3-large">AL team</h2>
+            </div>
+            <div class="w3-row">
+                <div class="w3-col s4 w3-padding-small w3-border w3-blue w3-center" id="following-btn">
+                    <b class="w3-xlarge">0</b>
+                    <p class="w3-small" style="margin-top: 0">Following</p>
+                </div>
+                <div class="w3-col s4 w3-padding-small w3-border w3-blue w3-center" id="followers-btn">
+                    <b class="w3-xlarge">0</b>
+                    <p class="w3-small" style="margin-top: 0">Followers</p>
+                </div>
+                <div class="w3-col s4 w3-padding-small w3-border w3-blue w3-center" id="posts-btn">
+                    <b class="w3-xlarge">0</b>
+                    <p class="w3-small" style="margin-top: 0">Posts</p>
+                </div>
+            </div>
+            <div class="w3-border w3-padding-small" id="work-pane"></div>
+        </div>
+        
+        <div id="manual-pane">
+            <div class="w3-padding-large w3-border">
+                <select class="w3-select w3-margin-bottom w3-black" name="option" id="category-select">
+                    <option value="" disabled selected>Choose your option</option>
+                    <option value="basic">พื้นฐานเกม</option>
+                    <option value="player">สำหรับผู้เล่น</option>
+                    <option value="writer">สำหรับคนเขียนเนื้อเรื่อง</option>
+                    <option value="painter">สำหรับคนวาดภาพ</option>
+                </select>
+                <select class="w3-select w3-black" name="option" id="topic-select">
+                    <option class="base" value="" disabled selected>Choose your option</option>
+                    <option class="basic" value="m1">พื้นฐานเกม 1</option>
+                    <option class="player" value="m2">สำหรับผู้เล่น 1</option>
+                    <option class="writer" value="m3">สำหรับคนเขียนเนื้อเรื่อง 1</option>
+                    <option class="painter" value="m4">สำหรับคนวาดภาพ 1</option>
+                    <option class="basic" value="m5">พื้นฐานเกม 2</option>
+                    <option class="player" value="m6">สำหรับผู้เล่น 2</option>
+                    <option class="writer" value="m7">สำหรับคนเขียนเนื้อเรื่อง 2</option>
+                    <option class="painter" value="m8">สำหรับคนวาดภาพ 2</option>
+                </select>
+            </div>
+            <div class="w3-padding-small content" style="top: 130px; bottom: 10px">
+                <p class="manual-content" id="m1">
+                    ทดสอบครับนี้คือบทความที่จะช่วยเหลือผู้เล่นอันที่ 1
+                </p>
+                <p class="manual-content" id="m2">
+                    ทดสอบครับนี้คือบทความที่จะช่วยเหลือผู้เล่นอันที่ 2
+                </p>
+                <p class="manual-content" id="m3">
+                    ทดสอบครับนี้คือบทความที่จะช่วยเหลือผู้เล่นอันที่ 3
+                </p>
+                <p class="manual-content" id="m4">
+                    ทดสอบครับนี้คือบทความที่จะช่วยเหลือผู้เล่นอันที่ 4
+                </p>
+                <p class="manual-content" id="m5">
+                    ทดสอบครับนี้คือบทความที่จะช่วยเหลือผู้เล่นอันที่ 5
+                </p>
+                <p class="manual-content" id="m6">
+                    ทดสอบครับนี้คือบทความที่จะช่วยเหลือผู้เล่นอันที่ 6
+                </p>
+                <p class="manual-content" id="m7">
+                    ทดสอบครับนี้คือบทความที่จะช่วยเหลือผู้เล่นอันที่ 7
+                </p>
+                <p class="manual-content" id="m8">
+                    ทดสอบครับนี้คือบทความที่จะช่วยเหลือผู้เล่นอันที่ 8
+                </p>
+            </div>
+        </div>
+        
+        <div id="forum-pane"  class="w3-padding-small">
+            <div id="forum-search" class="w3-padding-small w3-border">
+                <div class="w3-row">
+                    <div class="w3-col s10">
+                        <input name="search-topic" type="text" class="w3-input w3-border">
+                    </div>
+                    <div class="w3-col s2">
+                        <button class="w3-btn w3-blue" id="search-button"><i class="fa fa-search"></i></button>
+                    </div>
+                </div>
+                <div class="square-button w3-display-container w3-margin-top"><i class="fa fa-plus w3-display-middle"></i></div>
+            </div>
+            <div id="search-list" class="w3-border content scrollable" style="top: 120px; bottom: 10px;"></div>
+        </div>
+        
+        <div id="chat-pane">
+            <div id="story-message" style="overflow-y: scroll; position: absolute; top: 0; bottom: 50px;"></div>
+            <div class="w3-row" style="position: absolute; bottom: 0; width: 100%">
+                <input type="text" name="message" class="w3-input w3-border w3-col s10" id="sendBox">
+                <button class="w3-btn w3-blue w3-col s2" id="sendBtn" ><i class="fa fa-paper-plane"></i></button>
+            </div>
+        </div>
+        
+        <div id="following-pane"  class="pane w3-border w3-white w3-padding-small w3-display-container">
+            <i class="closeBtn fa fa-times w3-display-topleft w3-margin w3-xxlarge"></i>
+            <div style="top: 60px; bottom: 10px;" class="w3-border content scrollable" id="following-content">
+                
+            </div>
+        </div>
+        
+        <div id="followers-pane"  class="pane w3-border w3-white w3-padding-small w3-display-container">
+            <i class="closeBtn fa fa-times w3-display-topleft w3-margin w3-xxlarge"></i>
+            <div style="top: 60px; bottom: 10px;" class="w3-border content scrollable" id="followers-content">
+                
+            </div>
+        </div>
+        
+        <div id="posts-pane"  class="pane w3-border w3-white w3-padding-small w3-display-container">
+            <i class="closeBtn fa fa-times w3-display-topleft w3-margin w3-xxlarge"></i>
+            <div style="top: 60px; bottom: 10px;" class="w3-border content scrollable" id="posts-content">
+                
+            </div>
+        </div>
+        
+        <div id="post-list-pane"  class="pane w3-border w3-white">
+            <div style="top: 10px; height: 60px" class="content w3-display-container">
+                <i class="closeBtn fa fa-times w3-xxlarge w3-display-left w3-margin-left"></i>
+                <div class="square-button w3-display-container w3-display-right"><i class="fa fa-plus w3-display-middle"></i></div>
+            </div>
+            <div style="top: 70px; bottom: 60px" id ="post-list" class="w3-border content scrollable">
+                
+            </div>
+            <div style="bottom: 10px; height: 40px; overflow-x: scroll; white-space: nowrap;" id="page-list" class="content">
+                <div class="w3-blue w3-border square-button w3-center page-button">1</div>
+            </div>
+        </div>
+        
+        <div id="write-pane"  class="pane w3-border w3-white w3-padding-small w3-display-container">
+            <div class="w3-padding-small" style="width: 100%; height: 100%">
+                <div id="character-list" class="w3-border content w3-padding-small" style="top: 10px; height: 80px; overflow-x: scroll; white-space: nowrap;">
+                    <div class="w3-display-container character-container">
+                        <div class="w3-display-container icon w3-circle w3-blue w3-display-middle" id="add-character"><i class="fa fa-plus w3-display-middle"></i></div>
+                    </div>
+                </div>
+                <div class="w3-border w3-padding-small content scrollable" style="top: 100px; bottom: 60px" id="test-chat">
+                    <div id="add-message" class="w3-padding w3-display-container" style="height: 80px">
+                        <div class="w3-display-container square-button w3-display-middle" id="add-message-btn"><i class="fa fa-plus w3-display-middle"></i></div>
+                    </div>
+                </div>
+                <div class="w3-row" style="position: absolute; bottom: 10px; left: 10px; right: 10px; height: 40px;">
+                    <div class="w3-btn w3-red w3-col s6 closeBtn">cancel</div>
+                    <div class="w3-btn w3-blue w3-col s6" id="save-story">save</div>
+                </div>
+            </div>
+        </div>
+        
+        <div id="create-post-pane" class="pane-small w3-border w3-white w3-padding w3-display-container">
+            <div id="title-pane" style="display: none">
+                title <input name="character-name" type="text" class="w3-input w3-border w3-margin-bottom">
+            </div>
+            post <textarea name="icon-1" type="text" class="w3-input w3-border w3-margin-bottom" style="resize: none; height: 200px;"></textarea>
+            <div class="w3-row">
+                <div class="w3-col s6 w3-btn w3-black closeSmallBtn">cancel</div>
+                <div class="w3-col s6 w3-btn w3-blue" id="create-character-btn">create</div>
+            </div>
+        </div>
+        
+        <div id="create-character-pane" class="pane-small w3-border w3-white w3-padding w3-display-container">
+            name <input name="character-name" type="text" class="w3-input w3-border w3-margin-bottom">
+            icon1 <input name="icon-1" type="file" class="w3-input w3-border w3-margin-bottom">
+            icon2 <input name="icon-2" type="file" class="w3-input w3-border w3-margin-bottom">
+            icon3 <input name="icon-3" type="file" class="w3-input w3-border w3-margin-bottom">
+            <div class="w3-row">
+                <div class="w3-col s6 w3-btn w3-black closeSmallBtn">cancel</div>
+                <div class="w3-col s6 w3-btn w3-blue" id="create-character-btn">create</div>
+            </div>
+        </div>
+        
+        <div id="create-message-pane" class="pane-small w3-border w3-white w3-padding w3-display-container">
+            name <input name="character-name" type="text" class="w3-input w3-border w3-margin-bottom">
+            icon1 <input name="icon-1" type="text" class="w3-input w3-border w3-margin-bottom">
+            icon2 <input name="icon-2" type="file" class="w3-input w3-border w3-margin-bottom">
+            <div class="w3-row">
+                <div class="w3-col s6 w3-btn w3-black closeSmallBtn">cancel</div>
+                <div class="w3-col s6 w3-btn w3-blue" id="create-message-btn">create</div>
+            </div>
+        </div>
+        
+        <script src="js/bundle.js"></script>
+    </body>
+</html>

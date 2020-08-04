@@ -1,0 +1,686 @@
+,type,speaker,content,side,icon,condition,condition_setting
+0,เวอร์ชั่นเนื้อเรื่อง,,0.0.10,,,,
+1,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/Page15.png,,,delay,
+2,chat,เครื่อง TMC,ท่านอยู่ในปี พ.ศ.2094 เชียงใหม่ตกเป็นเมืองขึ้นของพม่า วัดเชียงมั่นถูกทิ้ง กลายเป็นวัดร้าง,left,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_005147.png,pressed,
+3,chat,คุณ,ตกใจหมด! ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+4,chat,คุณ,เครื่องนี้พูดได้ด้วยเหรอ? ไม่เห็นเคยได้ยิน,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+5,chat,คุณ,สิ่งปลูกสร้างที่นี่ ส่วนใหญ่สร้างด้วยไม้,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+6,chat,คุณ,ต่างจากปัจจุบันมาก ที่วิหารดูใหญ่โตไปหมด,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+7,chat,เครื่อง TMC,ใช่มั้ยละ!,left,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_005147.png,delay,
+8,chat,เครื่อง TMC,จนถึง พ.ศ.2101เจ้าฟ้ามังทรา หรือสมเด็จพระมหาธัมมิกะราชาธิราช แห่งพม่า,left,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_005147.png,delay,
+9,chat,เครื่อง TMC,ทรงศรัทธาในพระพุทธศาสนา โปรดให้พระญาแสนหลวงสร้างเจดีย์ วิหาร อุโบสถ หอไตร ธัมมเสนาสนะกำแพง และประตูโขงขึ้น ที่วัดเชียงมั่นเป็นครั้งที่สอง,left,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_005147.png,pressed,
+10,chat,คุณ,เเล้วมีใครเป็นเจ้าอาวาสละ?,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+11,chat,เครื่อง TMC,พระมหาหินทาทิจจวังสะ เป็นเจ้าอาวาส,left,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_005147.png,delay,
+12,chat,เครื่อง TMC,เมื่อถึงสมัยพระญากาวิละครองเมืองเชียงใหม่ พ.ศ.2324 – 2358 จึงได้บูรณะวัดเชียงมั่นใหม่อีกครั้ง ไม่เเปลกเลยที่รูปลักษณ์จะไม่เหมือนกัน,left,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_005147.png,pressed,
+13,chat,คุณ,ถึงว่าดูแล้วนึกถึงศิลปะของพม่า,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+14,chat,คุณ,เครื่องนี้ฉลาดจริง ๆ ไม่เเปลกเลยที่ใครๆก็อยากเป็นเจ้าของ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+15,chat,คุณ,เเต่เสียตรงที่หน้าตาไม่ดี สู้เราก็ไม่ได้,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+16,info,,มีบางอย่างพุ่งออกมาจากหลังต้นไม้,,,delay,
+17,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/83198853_511992682778744_5195114315786485760_n.png,left,,delay,
+18,chat,คนเเปลกหน้า,ว่าใครหน้าตาไม่ดีนะ!,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+19,chat,คุณ,เฮ้ย!!! กลางวันเเสก ๆ ผีออกมาได้ด้วย!?,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+20,chat,คนเเปลกหน้า,อุ๊ป ฮ่าๆๆ กลั้นขำไม่อยู่แล้ว,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+21,chat,คนเเปลกหน้า,ไง พ่อคนฉลาด นายคือคนที่ไปนั่งอ่านเเฟ้มคดีในห้องน้ำ ใช่มั้ยล่ะ ฮ่าๆๆ,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+22,chat,คุณ,มีอะไรน่าขำกัน!,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+23,chat,คนเเปลกหน้า,ฉันอยากรู้จริง ๆ ว่าจมูกนายยังใช้ดมกลิ่นได้อยู่ไหม ,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+24,chat,คุณ,เสียงคุ้น ๆ นะ หรือว่าเขาจะเป็น...,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+25,chat,คุณ,คุณ! คนที่คุยกับตาลุงในห้องน้ำนี่,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+26,chat,คนเเปลกหน้า,หืมม,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+27,info,,เขายื่นหน้าหล่อ ๆ เข้ามาใกล้คุณ,,,delay,
+28,chat,คนเเปลกหน้า,ฉันชื่อ ดาวเหนือ เรียกเหนือเฉย ๆ ก็ได้,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+29,chat,เหนือ,เเละนาย...,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+30,chat,คุณ,ผม 408,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+31,chat,เหนือ,… หมายถึงชื่อ ไม่ใช่เลขหน่วย,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+32,chat,คุณ,นั่นแหละชื่อผม,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+33,info,,ปัง!,,,delay,
+34,chat,เหนือ,หลบเร็ว!,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,0
+35,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%201.png,,,delay,
+36,info,,ทั้งสองรีบวิ่งไปหลบในวิหาร,,,delay,0
+37,chat,เหนือ,นายโอเคไหม?,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+38,chat,คุณ,มีคนมา หลบเร็ว  โอ๊ย!,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+39,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/1%20-%20%E0%B9%82%E0%B8%94%E0%B8%99%E0%B8%95%E0%B8%B5.jpg,,,delay,
+40,info,,บางอย่างกระแทกเข้าที่ท้ายทอยของคุณอย่างรุนแรง ยิ้มมุมปากของใครบางคน คือภาพสุดท้ายที่คุณมองเห็นรางๆก่อนจะสลบไป...,,,pressed,
+41,chat,คุณ,อือ ปวดหัวจัง…,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+42,info,,คุณตื่นขึ้นมา โดยถูกมัดอยู่กับเสาขนาดใหญ่,,,pressed,
+43,chat,คุณ,พวกกบฎ!,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+44,chat,กบฎ,อ้าว ตื่นแล้วเหรอ เครื่อง TMC ของคุณ ผมขอไปนะ,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%84%E0%B8%99.png,delay,
+45,chat,กบฎ,รับไว้ ไอ้หน้าใหม่ ถึงเวลาที่พวกเราจะเป็นอิสระเเล้ว,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%84%E0%B8%99.png,pressed,
+46,chat,คุณ,คุณ! นักวิทยาศาสตร์คนนั้นนี่ คุณร่วมมือกับพวกกบฎงั้นเหรอ!,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+47,info,,ทันใดนั้น มีเสียงคนกำลังเดินเข้ามา คุณส่งสายตาหาเหนือว่าช่วยด้วย เเต่สายตาของเขาเหมือนจะบอกว่า ใจเย็นๆก่อน พวกคุณทั้งสองส่งภาษาสายตากันอย่างดุเดือด,,,delay,
+48,chat,นักวิทย์เถื่อน,มีคนกำลังมา ไปกันได้เเล้ว,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B9%8C1.png,delay,0
+49,info,,พวกเขาเปิดใช้เครื่อง TMC เเต่กลับไม่ได้ผล เกิดความขัดข้องขึ้น,,,delay,
+50,chat,นักวิทย์เถื่อน,ห๊ะ! ทำไมไม่มีอะไรเกิดขึ้น?,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B9%8C1.png,delay,0
+51,info,,เสียงจากด้านนอกเข้ามาใกล้มากขึ้นทุกที พวกเขาคว้าลูกบอลสีเทาออกมาและโยนไปข้างหน้า พอควันพุ่งออกมา พวกเขาก็หายไป,,,pressed,
+52,chat,คุณ,แคก! แคก! จบจากฮอกวอตส์กันรึไง ฝุ่นนี่เล็กกว่า PM 2.5 อีกนะ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+53,chat,คุณ,พวกนั้นจะเข้ามาเเล้ว,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+54,chat,คุณ,ต้องขอความช่วยเหลือ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+55,info,,ชายฉกรรค์ 4 คนวิ่งเข้ามา พวกเขาไม่สนใจคุณ เเละรีบนำพระพุทธรูปที่ทำจากแก้วใส่กระสอบ,,,pressed,
+56,chat,คุณ,เฮ้ย ๆ นั่นพระแก้วขาวนะ ทำอะไรน่ะ!,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+57,info,,เมื่อคุณพูดจบชายฉกรรค์ทั้ง 4 ก็หันมา และเริ่มเดินเข้ามาหาคุณ,,,pressed,
+58,chat,คุณ,ฮะ ฮะ พี่ๆใจเย็นก่อน มานั่งคุยกันดี ๆ..,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+59,chat,คุณ,…ก็ได้นี่ครับ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+60,info,,มีภารกิจส่งมาจากหน่วย TS,,,delay,0
+61,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/unnamed.jpg,,,delay,0
+62,info,,วิหารเป็นส่วนหนึ่งของวัดเชียงมั่น ด้านในของวิหาร มีภาพจิตรกรรมฝาผนังเขียนสีทองบนพื้นเเดงบอกเล่าเรื่องราวการสร้างเมืองเเละวัดของพระญามังราย เวียงกุมกามเเละเมืองเชียงใหม่  มี 16 ภาพเเต่ละภาพจะมีคำบรรยายอยู่ด้านล่าง,,,delay,0
+63,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/IMG_20200131_141730.jpg,,,delay,0
+64,info,,เราอยากให้คุณหาข้อความที่อยู่ในภาพนี้ ว่าพระญามังรายประทับอยู่ที่ไหน? ก่อนเชิญพระญาร่วงเเละพระญางำเมือง มาช่วยเลือกชัยภูมิ  (วิธีการตอบ)  (ชื่อสถานที่),,,answered,เวียงเหล็ก
+65,info,,"พระญามังรายพบกับฟานเผือกแม่ลูกกำลังต่อสู้กับฝูงหมาบริเวณลอมคา หรือป่าหญ้าคาแห่งหนึ่ง และหมาไม่อาจเอาชนะฟานสองตัวนั้นได้ พระญามังรายเห็นเป็นเรื่องดี จึงถือเอาตำแหน่งนี้สร้างเมืองขึ้นมาใหม่ขณะนั้นสามพระญากำลังควบคุมการสร้างเมืองนพบุรีศรีนครพิงค์ เชียงใหม่ ทั้งสามพระองค์ พักบริเวณป่าที่เจอกับฟานเผือกหรือที่เรียกว่า “เหล่าคาสวนขวัญ” โดยขนานนามที่ประทับแห่งนั้นใหม่ว่า “เวียงเหล็ก” แปลว่าสถานที่มั่นคงแข็งแรง ส่วนลอมคา จุดที่พบกับฟานเผือกนั้น โปรดให้สร้างเป็นหอนอนของพระญามังราย (สนใจอ่านต่อ) <a target=""_blank"" href=""https://www.matichonweekly.com/column/article_202402"">อ้างอิง</a>",,,delay,0
+66,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/1%20-%20%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B9%82%E0%B8%88%E0%B8%A3.jpg,,,delay,0
+67,info,,พวกเขาตัวใหญ่กว่าคุณตั้งสองเท่า เงาของพวกเขาสูงมิดหัวคุณเลย,,,pressed,
+68,chat,คุณ,คือ.. พี่ๆช่วยเเก้มัดผมหน่อยได้ไหม..,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+69,chat,คุณ,...ครับ?,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+70,info,,พวกเขาจับคุณมัดข้อมือและปิดปากอย่างง่ายดาย แล้วโยนเข้าถุงกระสอบใบใหญ่,,,delay,0
+71,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/82110285_2540683452832920_8415430835267698688_n.png,,,pressed,
+72,chat,คุณ,ให้ตายเถอะ!,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+73,chat,คุณ,ที่เขาว่าคนไทยโบราณตัวใหญ่กำยำถือดาบอันยาวเท่าหอกได้เป็นเรื่องจริงสินะ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+74,chat,คุณ,เเล้วปัจจุบันยีนตัวใหญ่มันหายไปไหนหมดเนี่ย ไม่เห็นตกมาที่เราบ้างเลย,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+75,info,,เกวียนสั่นอย่างรุนแรง ถนนเบื้องล่างคงทุรกันดารมาก คุณกลิ้งไปมาในกระสอบ,,,pressed,
+76,chat,คุณ,ปัจจุบันพระเเก้วขาวถูกเก็บรักษาไว้อย่างดี ใช้กรงเหล็กเพื่อป้องกันคนขโมยนี่เอง,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+77,chat,คุณ,เเต่จะว่าไป ก่อนหน้านี้ ทำไมเครื่องTMC ถึงไม่ทำงานนะ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+78,chat,คุณ,แถมยังถูกชิงไปอีก,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+79,chat,คุณ,โธ่เอ๊ย!,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+80,chat,คุณ,ซวยซ้ำซวยซ้อนจริงๆ ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+81,info,,ขณะที่คุณพูดคนเดียวอยู่นาน เกวียนก็หยุดเคลื่อน ด้านนอกมีเสียงคนคุยกัน แต่ว่าไม่ใช่ภาษาที่คุณฟังออก,,,pressed,
+82,chat,คุณ,นี่เราขายออกเร็วขนาดนี้เลยเหรือ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+83,chat,คุณ,เเปลกจัง ทำไมอยู่ ๆ ถึงเงียบไป,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+84,chat,คุณ,หรือว่าเราจะโดนทิ้งแล้ว? ทำยังไงดี?,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+85,info,,คุณถูกมัดไว้แน่นมาก ดิ้นแค่ไหนก็ไม่หลุดสักที,,,delay,0
+86,info,,คุณเห็นแสงลอดเข้ามาทางปากถุงที่กำลังเปิด แล้วคุณก็หมดสติไปด้วยความเหนื่อยล้า,,,delay,
+87,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/1%20-%20%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A1%E0%B8%B5%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%84%E0%B8%B8%E0%B8%93.jpg,,,delay,0
+88,info,,รุ่งเช้าคุณตื่นขึ้นมา พบว่าตัวเองนอนอยู่บนแคร่ ด้านหน้ามีกระท่อมหลังเล็ก ๆ อยู่หลังหนึ่ง,,,pressed,
+89,chat,คุณ,...มีคนช่วยเราไว้งั้นเหรอ?,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+90,chat,คุณ,หิวข้าวจัง เรายังไม่ได้กินอะไรตั้งแต่มาที่นี่เลย,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+91,chat,ผู้มีพระคุณ,ลุกไหนมา?,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,pressed,
+92,chat,คุณ,ลุกๆ ภาษาอังกฤษ หมายถึงดูเหรอ?  เป็นไปไม่ได้,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+93,chat,คุณ,จริงสิ เรามีอุปกรณ์จากหน่วยนี่นา,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+94,chat,คุณ,สิริ เเปลภาษา,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+95,chat,ผู้มีพระคุณ,อะหยังน่ะ!?,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,pressed,
+96,chat,คุณ,ลุงดูไม่ไว้ใจสิริ หลบ ๆ หน่อยละกัน ..สิริ เริ่มเเปลได้,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+97,chat,ผู้มีพระคุณ,ผมเป็นคนหริภุญไชย (คนลำพูน),left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,delay,
+98,info,,ผู้มีพระคุณพูดจบ ก็เดินไปหยิบกระสอบที่ใส่พระแก้วขาวไว้ นำพระพุทธรูปออกมาอย่างระมัดระวัง แล้ววางไว้ที่ขอนไม้ใหญ่ เขากราบไหว้ด้วยความศรัทธา นัยตาปริ่มน้ำตา,,,delay,0
+99,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/IMG_20200129_124309.jpg,,,pressed,
+100,chat,คุณ,คุณรู้จักพระพุทธรูปองค์นี้นี่,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+101,chat,ผู้มีพระคุณ,ในตอนนั้น พระญามังรายอยากได้เมืองหริภุญไชย (ลำพูน) ไว้ในครอบครอง เพราะเป็นเมืองมั่งคั่ง เป็นศูนย์การค้าระหว่างประเทศ ธรรมชาติอุดมสมบูรณ์ ทั้งยังมีทางน้ำติดต่อถึงเมืองละโว้ และเมืองอโยธยาด้วย,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,delay,
+102,chat,ผู้มีพระคุณ,เเต่พวกเราชาวหริภุญไชย มีกำลังเข้มแข็งกว่าพระญามังรายมาก,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,delay,
+103,chat,ผู้มีพระคุณ,พระญามังรายจึงให้ขุนฟ้าอ้ายราชวัลลภ คนสนิทปลอมตัวเป็นไส้ศึกเข้าไปในราชสำนักหริภุญไชย,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,delay,
+104,chat,ผู้มีพระคุณ,ตอนนั้น เมืองหริภุญไชยมีพระญาญี่บาเป็นกษัตริย์ อ้ายฟ้าจึงทำให้ชาวหริภุญไชยไม่พอใจพระญาญี่บา นำทหารไปขุดเหมืองในฤดูร้อนเพื่อถ่ายแม่น้ำปิงมาสู่แม่น้ำกวง เป็นระยะทางสามสิบหกกิโลเมตร,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,delay,
+105,chat,ผู้มีพระคุณ,อ้ายฟ้าดำเนินแผนต่อ โดยตัดไม้ซุงลากผ่านที่นาของชาวบ้านในหน้านา ทำให้ข้าวเสียหายเป็นอันมาก โดยอ้ายฟ้าแจ้งประชาชนว่า พระญาญี่บาจะทรงสร้างพระราชวังใหม่ อ้ายฟ้าบ่อนทำลายเมืองหริภุญไชยอยู่นานเกือบเจ็ดปี ชาวหริภุญไชยจึงเอาใจออกห่างพระญาญี่บาเต็มที่,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,pressed,
+106,chat,คุณ,(ถูกใส่ร้ายสินะ...),right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+107,chat,ผู้มีพระคุณ,ขุนอ้ายฟ้าเมื่อเห็นโอกาส เลยส่งข่าวไปให้พระญามังรายยกทัพมาตีเมืองหริภุญไชย,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,delay,
+108,chat,ผู้มีพระคุณ,พระญามังรายก็กรีธาทัพมายึดเมือง ด้วยขบวนทัพ “12 แสนนายทหาร”,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,delay,
+109,chat,ผู้มีพระคุณ,ชาวเมืองก็ให้ความร่วมมือแก่พระองค์เป็นอย่างดี จึงทรงได้เมืองไปโดยง่าย,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,delay,
+110,chat,ผู้มีพระคุณ,เเต่พระญามังรายก็ยังทรงสั่งให้ทหารเผาเมือง,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,delay,
+111,chat,ผู้มีพระคุณ,(ลำพูนเป็นเมืองราชธานีที่รับอารยธรรมแบบอินเดีย-ทวารวดีมาเต็มๆ เจริญรุ่งเรืองถึงขีดสุดทั้งทางโลกและทางธรรมมาก่อนเมืองแถบลุ่มน้ำกกหลายศตวรรษเเล้ว),left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,delay,
+112,chat,ผู้มีพระคุณ,"หรือเพราะพระญามังรายฟังคำของพ่อค้าวาณิชที่เดินทางขึ้น-ล่องค้าขายแถบลุ่มแม่ปิง ล้วนกลับมาเล่าเป็นเสียงเดียวกันว่า “คนเมืองหริภุญไชยร่ำรวยนัก ผู้คนใส่คำ (ทอง) ใส่เงิน มีวัดวาอารามมากกว่า 2,000 แห่ง”",left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,delay,
+113,chat,คุณ,(ลุงนี้ไปกันใหญ่ละ),right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+114,chat,ผู้มีพระคุณ,อย่าได้มาเทียบกับเมืองเงินยางเลย ผู้คนขณะนั้นยังนับถือผีปู่จ้าวลาวจกกันอยู่!,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,delay,
+115,chat,ผู้มีพระคุณ,อีกอย่าง ข่าวมองโกลรุกฆาต พิชิตเมืองโน้นกระหนาบเมืองนี้จนพินาศ ล้วนแต่เป็นเมืองใหญ่ๆ ทั้งสิ้น เช่น พุกาม จามปา อังกอร์,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,delay,
+116,chat,ผู้มีพระคุณ,หากไม่เรียกว่านี่คือสถานการณ์ฉุกเฉินถึงขั้น “ไฟจี้ก้น” เมืองเงินยางให้ต้องรีบหาทางถอยห่างจากมองโกลลงไปทางใต้,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,delay,
+117,chat,ผู้มีพระคุณ,เพราะมีเขตแดนประชิดรัฐฉานและสิบสองปันนาใกล้จีนเหลือเกิน ก็ไม่รู้ว่าจะให้พระองค์นั่งนอนใจอย่างไรไหวแล้ว,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,pressed,
+118,chat,คุณ,(ทำไมพระองค์ต้องเผาด้วยนะ ในเมื่อเดินเข้าเมืองก็ได้เเล้ว),right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+119,chat,คุณ,(ไม่สิ ถ้าพระองค์ไม่เผาถึงจะเเปลก),right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+120,chat,คุณ,(พอเข้าใจได้ ว่าทำไมถึงเผา ข้อเเรก เพื่อลบคำดูถูกจากพ่อค้าวาณิช),right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+121,chat,คุณ,ข้อสอง เพื่อขยายอำนาจ ประกาศให้ชาวมองโกลที่กำลังตีเมืองขยายอำนาจเหมือนกัน ว่าบริเวณนี้เป็นอาณาเขตของพระองค์,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+122,chat,คุณ,(ถ้าไม่เผาเเสดงว่าไม่ได้คิดการใหญ่จริง),right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+123,chat,คุณ,(ถ้าตีเมืองลำพูนเเต่ไม่เผา ก็เท่ากับว่าต้องการนั่งบัลลังก์เป็นกษัตริย์ลำดับที่ 51 ของหริภุญไชย แต่ถ้าเผาเพื่อเเสดงความยิ่งใหญ่ให้ทุกหัวเมืองรอบ ๆ ต้องยำเกรง ว่านครเงินยางจะเป็นใหญ่ในล้านนา ไม่ดีกว่าเหรอ),right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+124,info,,มีภารกิจส่งมาจากหน่วย TS,,,delay,0
+125,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/unnamed.jpg,,,delay,0
+126,info,,วิหารเป็นส่วนหนึ่งของวัดเชียงมั่น ด้านในของวิหาร มีภาพจิตรกรรมฝาผนังเขียนสีทองบนพื้นเเดงบอกเล่าเรื่องราวการสร้างเมืองเเละวัดของพระญามังราย เวียงกุมกามเเละเมืองเชียงใหม่  มี 16 ภาพเเต่ละภาพจะมีคำบรรยายอยู่ด้านล่าง,,,delay,0
+127,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/IMG_20200131_141643.jpg,,,delay,0
+128,info,,เมืองใหม่ของพระญามังรายถูกสถาปนาว่าอะไร? (วิธีการตอบ) พิมพ์ชื่อเมืองนั้นเลย,,,answered,นพบุรีศรีนครพิงค์เชียงใหม่
+129,info,,"เมื่อกษัตริย์ทั้งสามพระองค์ปรึกษาหารือกันแล้ว พญามังรายจึงได้ตกลงสร้างเมืองใหม่ขึ้นมา ณ ที่ราบเชิงดอยสุเทพแห่งนี้ โดยสร้างกำแพงเมืองด้านกว้าง 800 วา ด้านยาว 1,000 วามาบรรจบเป็นรูปสี่เหลี่ยมผืนผ้า ครั้นเมื่อได้เวลาฤกษ์ก็ได้ลงมือขุดคูเวียงและก่อปราการด้านทิศอีสานอันเป็นทิศศรีนครก่อนแล้วอ้อมไปทิศทักษิณไปรอบสี่ด้านพร้อมทั้งตั้งตลาดไปด้วยกันเป็นเวลาสี่เดือนจึงแล้วเสร็จสมบูรณ์กษัตริย์ทั้งสามพระองค์ทรงขนานนามเมืองนี้ว่า “นพบุรีศรีนครพิงค์เชียงใหม่” (สนใจอ่านต่อ) <a target=""_blank"" href=""https://www.chiangmainews.co.th/page/archives/591742"">อ้างอิง</a>",,,pressed,
+130,chat,คุณ,เเล้วทางพระญาญี่บาล่ะ จะทำอย่างไรต่อไป?,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+131,chat,ผู้มีพระคุณ,พระญาญี่บาพาครอบครัวหลบหนีขึ้นดอยทาสบเส้าก่อนมุ่งหน้าไปยังเขลางค์นคร (ลำปาง),left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,delay,
+132,chat,ผู้มีพระคุณ,ความเจ็บช้ำน้ำใจของพระญาญี่บาที่เสียรู้แก่อ้ายฟ้าเล่าว่า,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,delay,
+133,chat,ผู้มีพระคุณ,“เหลียวหลังคืนผ่อหันควันไฟยังเวียงละพูน พระญาญี่บาน้อยใจก็ร้องร่ำไห้ร่ำไรมากนัก”,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,pressed,
+134,chat,คุณ,คำเมืองเเปลได้ใช่ไหม? สิริ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+135,chat,สิริ,ได้ค่ะ,left,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_010852.png,delay,
+136,chat,สิริ,“ฝ่ายพระญาญี่บาเมื่อออกจากเมืองไป ข้ามเขาชุหรบรรพต เหลียวหลังมาดูพระนครของตนเห็นควันไฟตลบฟุ้ง กลบกลุ้มถึงอากาศก็คาดพระทัยได้ว่าเสียเมืองแก่ข้าศึกแล้ว ก็ทรงกันแสงไห้พิไรร่ำอยู่ ณ ที่นั้น” เขาลูกนั้นจึงได้ชื่อว่า ดอยบาไห้,left,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_010852.png,pressed,
+137,chat,คุณ,อ๋อ... เข้าใจแล้ว,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+138,chat,คุณ,แต่พระเเก้วขาวมีความเกี่ยวข้องกันยังไงล่ะ?,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+139,chat,ผู้มีพระคุณ,พระเเก้วขาว??,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,pressed,
+140,chat,คุณ,จริงสิ เมื่อก่อน พระเเก้วขาวถูกเรียกว่าพระเสตังคมณี,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+141,chat,คุณ,ผมหมายถึงพระเสตังคมณี มีความเกี่ยวข้องยังไงกับเรื่องนี้?,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+142,chat,ผู้มีพระคุณ,เมื่อพระญามังรายยกพลเข้าเมืองได้แล้ว ก็ออกตรวจดูความเสียหาย สิ่งที่ทำให้พระญามังรายประหลาดใจที่สุด คือหอพระ...,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,delay,
+143,chat,ผู้มีพระคุณ,ที่อยู่บริเวณพระราชวังของพระญายีบาไม่ถูกไฟไหม้ แต่บริเวณรอบๆ กลับถูกไฟเผาพินาศหมด พระญามังรายจึงเข้าไปดู เห็นพระเสตังคมณีสถิตอยู่ที่นั่น ก็เกิดศรัทธาจึงอัญเชิญองค์พระเสตังคมณีมาประดิษฐานไว้ ณ ที่ประทับของตน,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,pressed,
+144,chat,คุณ,ก็คือวัดเชียงมั่นสินะ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+145,chat,คุณ,เเต่จะว่าไปปกติคนจะยึดเมืองจะไม่ทำอะไรให้เมืองต้องเสียหาย เพราะต้องใช้เงินมหาสารเเละทรัพยากรคนเเละเวลา ในการซ่อมเมือง,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+146,chat,คุณ,เเต่พระญามังรายกลับเผาเมือง หรือนี่คือวิธี “ข่มขวัญ” ศัตรูในเเบบ “ผู้ชนะ”..,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+147,chat,คุณ,ประกาศให้โลกรู้ถึงแสนยานุภาพว่า พระองค์ต้องการรวมเมืองโบราณจากลุ่มแม่ปิง ให้รวมกับนครเงินยางจากลุ่มน้ำกก เพื่อให้ผู้คนเกรงกลัวพระองค์ ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+148,chat,คุณ,แต่ถ้าพระญาญี่บากับครอบครัวออกจากเมืองได้ เเสดงว่าตอนนี้ก็อาจจะยังมีชีวิตอยู่นะสิ!?,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+149,chat,ผู้มีพระคุณ,โปรดอย่าถามอะไรอีกเลย..,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,delay,
+150,chat,ผู้มีพระคุณ,คุณเป็นคนนำมา ถึงเวลาต้องนำกลับคืนเเล้ว...,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,delay,
+151,chat,ผู้มีพระคุณ,หากพระเสตังคมณีหายไป ลูกๆหลานๆก็คงจะไม่ได้เห็นสิ่งล้ำค่าเช่นนี้ ,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,delay,
+152,info,,คุณเก็บความสงสัยไว้ในใจ เเล้วทำตามที่ผู้มีพระคุณบอก คุณกล่าวขอบคุณเเละบอกลา ก่อนจะเดินจากไป,,,pressed,
+153,chat,คุณ,น่าจะใกล้ถึงวัดเชียงมั่นเเล้วนะ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+154,chat,คุณ,เเต่ผู้ชายคนนั้นรู้รายละเอียดขนาดนี้ ท่าจะเป็นคนสำคัญของเมืองลำพูน,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+155,chat,คุณ,อ่า! อะไรกัน นี่เราสงสัยอะไรในตัวผู้มีพระคุณกันนะ?,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+156,chat,คุณ,กลับมาที่ภารกิจของเราก่อน,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+157,chat,คุณ,เครื่อง TMC ไม่สามารถใช้งานหลายครั้งติดกันได้ ต้องรอให้พลังงานกลับมาก่อนถึงจะใช้ได้อีกครั้ง ถ้าเครื่องของเรากับพวกนั้นถูกใช้ในเวลาใกล้เคียงกัน ก็อีกนานเลยกว่าจะใช้ได้ พวกมันหนีไปได้ไม่ไกลหรอก!,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+158,จบตอน,,,,,delay,0
+159,info,,คุณอยู่ในอุโบสถใหญ่ในวัดเชียงมั่น,,,delay,
+160,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/IMG_20200129_124309.jpg,,,delay,0
+161,info,,คุณวางพระเเก้วขาวไว้ที่เดิมเเล้วรีบออกจากที่นี่ก่อนที่จะโดนจับอีกครั้ง ถ้าโดนจับอีกมันต้องวุ่นวายเเน่ ๆ,,,delay,0
+162,info,,คุณเดินออกจากอุโบสถได้ไม่นาน ก็มีเเสงออกมาจากศาลาเล็ก เเสงนั้นสว่างมากจนคุณไม่สามารถมองตรง ๆ ได้เลย,,,pressed,
+163,chat,คุณ,เกิดอะไรขึ้น !! เเสงนี่จ้าเกินไป ถ้ามองตรง ๆ ได้ตาบอดเเน่,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+164,info,,คุณเดินเข้าไปในที่ ๆ มีเเสงออกมาจากศาลาเล็ก ทันทีที่เดินเข้าไปเเสงนั้นก็ค่อย ๆ ดับลง คุณก็เห็นบางอย่างอยู่ใต้ดิน,,,delay,
+165,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/IMG_20200129_124933.jpg,,,pressed,
+166,chat,คุณ,นี่น่าจะเป็นพระพุทธรูปปางโปรดช้างนาราคีฬี แกะสลักด้วยหินชนวนดำ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+167,chat,คุณ,หรือคือหินแดงกันนะ เเยกอยากจริง ๆ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+168,chat,คุณ,ฝีมือช่างปาละของอินเดียเเน่ เเถมยังสลักตามคติเดิมของอินเดีย ลักษณะคือ ประทับยืนเยื้องพระองค์บนฐานบัวภายใต้ซุ้ม มือขวาทอดลงเหนือหัวช้างซึ่งหมอบอยู่ มือซ้ายยกในท่าประทานอภัยหรือแสดงธรรม พระอานนท์ยืนถือบาตรอยู่ด้านซ้าย,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+169,chat,คุณ,คุณสมบัติทั้งหมดนี้มีอยู่องค์เดียวที่นึกได้คือพระศิลา ปัจจุบันประดิษฐานคู่กับพระเสตังคมณี,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+170,chat,คุณ,ได้โอกาศเเล้ว! กลับไปหาผู้มีพระคุณดีกว่า,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+171,info,,คุณเดินตามเเผนที่ในหัวเท่าที่จำได้ เดินหากระท่อมกลางป่าหลังนั้น,,,delay,
+172,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/1%20-%20%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A1%E0%B8%B5%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%84%E0%B8%B8%E0%B8%93.jpg,,,delay,
+173,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/IMG_20200129_125050.jpg,,,delay,0
+174,info,,มีภารกิจส่งมาจากหน่วย TS,,,delay,0
+175,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/unnamed.jpg,,,delay,0
+176,info,,วิหารเป็นส่วนหนึ่งของวัดเชียงมั่น ด้านในของวิหาร มีภาพจิตรกรรมฝาผนังเขียนสีทองบนพื้นเเดงบอกเล่าเรื่องราวการสร้างเมืองเเละวัดของพระญามังราย เวียงกุมกามเเละเมืองเชียงใหม่  มี 16 ภาพเเต่ละภาพจะมีคำบรรยายอยู่ด้านล่าง,,,delay,0
+177,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/IMG_20200131_141624.jpg,,,delay,0
+178,info,,ในข้อความใต้รูปนี้ มีการทำบุญสรงน้ำ ถวายทาน การละเล่น เเล้วยังมีอะไรอีก (วิธีการตอบ) (คำตอบมีสองพยางค์),,,answered,ฟ้อนรำ
+179,info,,"ทุกปีเมื่อถึงวันแรม 13 คํ่าเดือน 6 เหนือ ไปจนถึงวันขึ้น 1 คํ่าเดือน 7 เหนือ จะมีประเพณีนมัสการและสรงนํ้าพระเสตังคมณี หรือ พระแก้วขาว ในทุกปีเมื่อถึงช่วงสงกรานต์ หรือ ประเพณีปี๋ใหม่เมือง ทางวัดจึงได้อัญเชิญพระพุทธรูปสำคัญทั้งสององค์ออกมาให้ชาวเมืองได้สรงนํ้า โดยเฉพาะพระแก้วขาวได้ชื่อว่าเป็นพระพุทธรูปที่นับถือกันว่ามีความศักดิ์สิทธิ์ สามารถคุ้มครองป้องกันอันตรายและอำนวยความสุขสวัสดิ์มงคลแก่ผู้ที่เคารพศรัทธา (สนใจอ่านต่อ) <a target=""_blank"" href=""https://www.chiangmainews.co.th/page/archives/557193"">อ้างอิง</a>",,,delay,
+180,chat,ผู้มีพระคุณ,เเต่ตามตำนานตอนผมเด็ก ๆ เล่าว่า เมื่อพระโคตมพุทธเจ้าปรินิพพานไปได้ 7 ปี 7 เดือน กับ 7 วัน,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,delay,
+181,chat,ผู้มีพระคุณ,พระเจ้าอาชาตศัตตุราช ผู้ครองนครราชคฤห์ ต้องการสร้างพระพุทธรูปขึ้นมา,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,delay,
+182,chat,ผู้มีพระคุณ,ทรงให้นำเอาหินอ่อนจากท้องมหาสมุทรมาสร้างพระพุทธรูปปางโปรดช้างนาฬาคีฬี,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,delay,
+183,chat,ผู้มีพระคุณ,ขณะเสด็จบิณฑบาตรในเวียงราชคฤห์ โดยมีรูปช้างนาฬาคีฬีนอนหมอบอยู่ทางขวา และรูปพระอานนท์ถือบาตรอยู่ทางซ้าย,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,delay,
+184,chat,ผู้มีพระคุณ,ทรงให้สร้างรูปทั้งสามนั้นในหน้าหินลูกเดียวกัน,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,delay,
+185,chat,ผู้มีพระคุณ,เมื่อสร้างพระพุทธรูปเสร็จ พระเจ้าอาชาตศัตตุราชาและพระอรหันต์เจ้าทั้งหลายพร้อมใจกันตั้งจิตอธิฐานกล่าวคำอาราธนาพระบรมสารีริกธาตุ 7 พระองค์,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,delay,
+186,chat,ผู้มีพระคุณ,ให้เสด็จเข้าสถิตย์ในองค์พระพุทธรูปศีลา,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,delay,
+187,chat,ผู้มีพระคุณ,เมื่อพระบรมสารีริกธาตุทั้ง 7 พระองค์สถิตย์ตั้งอยู่ในองค์พระศีลาแล้ว,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,delay,
+188,chat,ผู้มีพระคุณ,พระศีลาก็สำแดงอิทธิฤทธิ์ลอยขึ้นไปในอากาศ พระเจ้าอาชาตศัตตุราชเห็นเป็นอัศจรรย์ จึงประดิษฐานพระศีลาในเงื้อมเขาสูง,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,delay,
+189,chat,ผู้มีพระคุณ,และทำแท่นบูชาไว้ข้างล่างสำหรับผู้ที่ต้องการมาทำการสักการบูชา,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,pressed,
+190,chat,คุณ,พระศีลาลอยขึ้นไปในอากาศงั้นหรือ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+191,chat,คุณ,รู้สึกว่าเรื่องที่เราเห็นเเสงออกมาจากพระศิลาดูเบาไปเลย,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+192,chat,ผู้มีพระคุณ,หลังจากนั้น พระเถรเจ้า 3 องค์ ที่มีชื่อว่า สีระวังโส เรวะโต และญานคัมภีระเถระ ก็พากันไปนมัสการพระศีลาที่เงื้อมเขา,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,delay,
+193,chat,ผู้มีพระคุณ,และได้ขออาราธนาพระองค์เสด็จโปรดมหาชนในประเทศบ้านเมืองที่ไกลบ้าง,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,pressed,
+194,chat,คุณ,พระเถระเจ้าทั้ง 3 องค์เลยขออนุญาตพระเจ้าอาชาตศัตตุราชนำพระศีลาไปยังเมืองหริภุญไชยสินะ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+195,chat,คุณ,เมื่อพระเถระเจ้าทั้ง 3 องค์มาถึงเมืองนคร (ลำปาง) ก็อัญเชิญพระศีลาเจ้าประดิษฐานไว้ในเมืองนั้น เพื่อเป็นที่สักการบูชาของประชาชนชาวเมืองเป็นเวลาหลายสมัย,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+196,chat,คุณ,พอพระเถระเจ้าทั้ง 3 องค์มาถึงเมืองนคร (ลำปาง) ก็อัญเชิญพระศีลาเข้าประดิษฐานไว้ในเมืองนั้น เพื่อเป็นที่สักการบูชาของประชาชนชาวเมืองเป็นเวลาหลายสมัย,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+197,chat,คุณ,เเต่หลังจากนั้น...,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+198,chat,ผู้มีพระคุณ,หลังจากนั้นผมก็ไม่รู้,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,pressed,
+199,chat,คุณ,สิ่งที่ผู้มีพระคุณเล่าคือตำนาน เเต่สิ่งที่เรารู้คือ...,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+200,chat,คุณ,พอสมัยพระเจ้าติโลกราช ครองเมืองเชียงใหม่,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+201,chat,คุณ,มีรับสั่งให้เชิญพระศีลามาประดิษฐานไว้ ที่เชียงใหม่ โดยประดิษฐานไว้ที่วัดป่าแดง,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+202,chat,คุณ,วัดหมื่นสาร,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+203,chat,คุณ,วัดสวนดอก ตามลำดับ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+204,chat,คุณ,ในปีมะแม จุลศักราช 837 (พ.ศ. 2019) ทรงเชิญพระศีลามาประดิษฐานในหอพระแก้ว ในพระราชวังของพระองค์,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+205,chat,คุณ,จนถึงเทศกาลอันสมควรก็กระทำพิธีสักการบูชาสระสรงสมโภชพระแก้วและพระศีลาเป็นงานประจำปี ถ้าปีใดบ้านเมืองแห้งแล้งฝนไม่ตกต้องตามฤดูกาล,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+206,chat,คุณ,ก็ทรงให้จัดการทำพิธีขอฝน สระสรงองค์พระศีลา,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+207,chat,คุณ,พอสิ้นรัชสมัยพระเจ้าติโลกราช พระราชบุตร พระราชนัดดาได้เสวยราชสมบัติ ก็ทรงดำเนินตามราชประเพณีสืบๆกันมา,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+208,chat,ผู้มีพระคุณ,เเล้วนำพระศีลามาจากที่ไหน ผมสงสัยมาก,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,delay,
+209,chat,ผู้มีพระคุณ,ตั้งเเต่เกิดมาผมยังไม่เคยเห็นพระศิลาเลย เเต่คุณกลับ... เอามา...,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,delay,0
+210,info,,คุณพยามหลีกเลี่ยงคำถามนี้ เพราะถ้าจะบอกว่าหยิบมา ก็คงดูไม่ดีนัก,,,pressed,
+211,chat,คุณ,พระเเก้วขาวเข้าฝันนะ ฮ่า ๆ ๆ ท่านบอกว่ามีเพื่อนต้องการความช่วยเหลือ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+212,chat,ผู้มีพระคุณ,พระศิลาคือเพื่อนหรือ??,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,pressed,
+213,chat,คุณ,ฮ่า ๆ ๆใช่... ขนาดงานสรงน้ำพระ พระเสตังคมณีและพระศิลา ยังออกมาด้วยกันเลย,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+214,chat,ผู้มีพระคุณ,ผมไม่เคยได้ยินเรื่องนี้นะ,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,pressed,
+215,chat,คุณ,เป็นงานประจำปีของชาวเชียงใหม่ ในปัจจุบันนะ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+216,chat,ผู้มีพระคุณ,...,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,delay,0
+217,info,,คุณเริ่มเปลี่ยนเรื่องคุยทันที,,,pressed,
+218,chat,คุณ,คุณช่วยผมไว้หลายครั้งเเล้ว ผมอยากตอบเเทน,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+219,chat,ผู้มีพระคุณ,งั้นผมขอสองอย่าง อย่างเเรก ผมขอกระบอกไม้ไผ่ที่อยู่ในมือคุณ ข้อสองผมอยากให้คุณอย่ากลับมาอีก,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%8A%E0%B8%B2%E0%B8%A2.png,pressed,
+220,chat,คุณ,ข้อสองพอเข้าใจ ทำให้ได้,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+221,chat,คุณ,เเต่ข้อเเรก สิริ เป็นของหน่อย TS หน่วยนี้ให้ความสำคัญกับการรักษาความลับของหน่วย เเถมนี้เป็นของจากอนาคต อาจทำให้อดีตเเปรปรวน เราอาจลำบากได้ เเล้วเขาก็เป็นใครไม่รู้อาจเป็นกบฏที่ปลอมตัวมาก็ได้,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+222,info,,คุณชั่งใจอยู่นาน ก็คิดได้,,,pressed,
+223,chat,คุณ,เอาไปเถอะลุง,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+224,info,,ดูเหมือนจะมีบางอย่างอยู่เหนือเหตุผลของคุณนะ,,,delay,
+225,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/1%20-%20%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A1%E0%B8%B5%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%84%E0%B8%B8%E0%B8%93.jpg,,,delay,0
+226,info,,คุณออกมาจากกระท่อมกลางป่าหลังนั้น,,,pressed,
+227,chat,คุณ,เหมือนเรื่องที่พระศิลามีเเสดงออกมาไม่เกี่ยวกับข้อมูลที่ได้มาเลย,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+228,chat,คุณ,ต้องมีบางอย่างผิดปกติ ไม่เเน่อาจเป็นสิ่งที่นักวิทย์ทำไว,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+229,chat,คุณ,หยุดนะ!!,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+230,info,,ในวินาทีที่คุณเดินเข้าวัดเชียงมั่น คุณก็เห็นนักวิทย์พยายามเเกะเครื่อง TMCเเต่ด้วยความตกใจของคุณ ทำให้นักวิทย์รู้ตัวเเละกำลังจะใช้เครื่อง TMCหายไป,,,delay,0
+231,info,,เมื่อคุณเห็นเเบบนั้นเลยวิ่งเข้าไปจับบ่าของนักวิทย์เต็มเเรง เเละวินาทีนั้นนักวิทย์กดใช้เครื่องพอดี พวกคุณเลยหายไปที่ไหนสักเเห่งด้วยกัน,,,pressed,
+232,chat,คุณ,ที่นี่มันที่ไหน ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+233,info,,ตอนนี้เบื่องหน้าคุณมีเเต่หญ้าสุดลูกหูลูกตา,,,pressed,
+234,chat,คุณ,เมื่อกี้เรากับนักวิทย์คนนั้นอยู่ที่ไหนกัน ตรงนั้นไม่ว่ามองไปทางไหนก็มีเเต่สีขาว ลมก็เเรง,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+235,chat,คุณ,เเล้วก็...ตัวเราไม่รู้สึกอะไรเลย เหมือนอยู่บนอวกาศแน่ะ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+236,info,,มีภารกิจส่งมาจากหน่วย TS,,,delay,0
+237,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/unnamed.jpg,,,delay,0
+238,info,,วิหารเป็นส่วนหนึ่งของวัดเชียงมั่น ด้านในของวิหาร มีภาพจิตรกรรมฝาผนังเขียนสีทองบนพื้นเเดงบอกเล่าเรื่องราวการสร้างเมืองเเละวัดของพระญามังราย เวียงกุมกามเเละเมืองเชียงใหม่  มี 16 ภาพเเต่ละภาพจะมีคำบรรยายอยู่ด้านล่าง,,,delay,0
+239,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/IMG_20200131_141702.jpg,,,delay,0
+240,info,,เมืองที่โดนไฟเผาชื่อว่าเมืองอะไร? (วิธีการตอบ) เมือง...,,,answered,หริภุญไชย
+241,info,,"จริงไหมที่พระญามังรายเคยเผาเมืองหริภุญไชย เป็นประเด็นที่มีคนถามกันบ่อยครั้ง ถ้าคุณอยากรู้คำตอบก็ลองเข้ามาใน (<a target=""_blank"" href=""https://www.matichonweekly.com/culture/article_26984"">อ้างอิง</a>) ดูสิ",,,delay,
+242,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/2%20-%20%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B1%E0%B8%9E%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%81%E0%B8%9A%E0%B8%8F.jpg,,,pressed,
+243,chat,คุณ,มีคนยืนเฝ้าหน้าประตู เเละจะเปลี่ยนเวรกันทุก ๆ หนึ่งชั่วโมงอย่างต่อเนื่อง เราคงออกไปได้ยาก,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+244,chat,คุณ,เลือกที่ตกได้ดีจริง ๆ เลยนะเรา,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+245,info,,มีคนถืออาวุธกลุ่มหนึ่งวิ่งมาทางคุณ คุณเลยต้องรีบซ่อนตัว,,,pressed,
+246,chat,คุณ,ทำยังไงดี พวกนั้นดันมาหยุดคุยกันตรงนี้ เราไปไหนไม่ได้เลย,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+247,chat,คุณ,ตรงนี้มันมุมอับนะ เดินต่อสิโวย!,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+248,info,,คุณหันไปมองอาคารฝั่งตรงข้าม คุณต้องไปตรงนั้นให้ได้,,,pressed,
+249,chat,คุณ,1..2..3! ไป,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+250,info,,ฉันอยู่นี้! ๆๆๆ,,,delay,0
+251,info,,"คุณพึ่งเหยียบตุ๊กตาน่ารักที่มีเสียง ""ฉันอยู่นี่! ๆๆๆ""",,,delay,0
+252,info,,ในตอนนั้นคนถืออาวุธก็หันมามองคุณพร้อมกัน คนหนึ่งยิ้มให้ คนหนึ่งกัดเเอปเปิล คนหนึ่ง จับอาวุธ พวกเขาไล่ยิงคุณเเต่คุณก็หลบได้ทุกลูก,,,delay,
+253,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/4%20-%20%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B9%84%E0%B8%81%E0%B8%9B%E0%B8%B7%E0%B8%99.jpg,,,pressed,
+254,chat,คุณ,พระเอกก็งี้หลบได้ทุกลูก,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+255,chat,คุณ,เเต่ไม่น่าเชื่อ ผู้ชายที่นี่เขาจะนิยมเล่นตุ๊กตาหน้าตาน่ารักเเบบนั้นกัน,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+256,info,,ในที่สุดคุณก็หนีออกมาจากการไล่ล่าได้ เเต่ตอนนี้คุณคงเคลื่อนไหวลำบาก เพราะพวกเขาเพิ่มระบบรักษาความปลอดภัยมากขึ้น,,,delay,0
+257,info,,คุณได้เเต่หลบอยู่หลังอาคาร เเต่ก็มีเสียงที่คุ้นเคยออกมาจากหน้าต่างบนหัวคุณ,,,delay,
+258,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/2%20-%20%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B9%8C.jpg,,,pressed,
+259,chat,คุณ,ทำไม นักวิทย์กับเหนือถืออยู่กันสองคนในห้อง ดูสนิทสนมกันดีนี่,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+260,info,,มีภารกิจส่งมาจากหน่วย TS,,,delay,0
+261,info,,เปลี่ยนสถานที่ คราวนี้เราจะให้คุณไปวิหารอีกวิหารหนึ่งที่อยู่ด้านข้าง ในนั้นจะมีพระพุทธรูปอยู่ในกรงเหล็กสององค์ องค์หนึ่งคือพระเเก้วขาว เเต่อีกองค์ที่อยู่ไกล้ ๆ คือ...,,,delay,0
+262,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/IMG_20200131_113101.jpg,,,delay,0
+263,info,,"คำตอบอยู่ในวิหารนี้ โดยคำสั่งของคุณคือ ""พระพุทธรูปที่อยู่ด้านข้าง องค์พระเเก้วขาว มีชื่อว่าอะไร?"" (วิธีการตอบ) คำตอบมี 3 พยางค์",,,answered,พระศิรา
+264,info,,ใช่! คุณตอบถูกเเต่มันยังไม่หมดเท่านี่นะ คุณเดินออกมาด้านนอกสิ ตรงที่มีรูปวาดพระเเก้วขาวอยู่ที่ฝาผนัง,,,delay,0
+265,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/IMG_20200131_112225.jpg,,,delay,0
+266,info,,ด้านล่างรูปจะมีข้อมูลที่เกี่ยวกับพระเเก้วขาวเเละพระศิรา หลังจากที่คุณอ่านเเล้วอาจเข้าใจความเป็นพระศิรา (พระศิลา) เพิ่มขึ้นนะ ข้อมูลหลังจากนี้เเล้วเเต่ความสมัครใจของผู้เล่น เเต่เราเเนะนำให้อ่านเถอะมันสั้นนิดเดียว..เอง,,,pressed,
+267,chat,คุณ,นี้มันเป็นเพื่อนหน่วยกับเราจริง ๆ ใช่มัย,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+268,chat,คุณ,ก็ว่าอยู่คน ๆ นี้ไม่น่าไว้ใจตั้งเเต่เเรกที่เจอเเล้ว….,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+269,info,,คุณยังพูดไม่จบประโยชน์ก็มีบางอย่างจับบ่าคุณจากด้านหลัง,,,delay,
+270,chat,เหนือ,มาไกลเลยนี้คู่หู พรมลิขิตมีจริงด้วยนะ,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+271,chat,คุณ,นี่! คุณมาอยู่นี้ได้ยังไง,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+272,chat,คุณ,เเล้วเอามือออกจากไหล่ผมด้วย,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+273,chat,คุณ,อีกอย่างผมไม่ใช่คู่หูของคุณ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+274,chat,คุณ,เอ้? เเต่เดียวนะเมื่อกี้คุณอยู่ด้านในนี่ เเล้วทำไม...,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+275,chat,เหนือ,ดู กว่านายจะรู้ตัว,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+276,chat,เหนือ,จริง ๆ ก็ไม่ได้ยากอะไรนี่,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+277,chat,คุณ,หะ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+278,chat,เหนือ,ดูนี้นะ ตอนนี้มีทหาร 1 คนกำลังเดินมาทางนี้ นายเเค่...,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+279,chat,เหนือ,จับคอเสื้อ เเล้วทำให้เขาสลบ เเบบนี้!,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+280,chat,คุณ,รู้ไหมคุณมันป่าเถื่อน,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+281,info,,เหนือยื่นบางอย่างให้กับคุณ,,,delay,
+282,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/81949196_1900306610115527_4390763401916186624_n.png,,,pressed,
+283,chat,คุณ,นี่มันสเปรย์พริกไทยชัด ๆ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+284,info,,เขาหยิบสิ่งที่คุณเรียกว่าสเปรย์พริกไทยมาจากมือคุณ เเล้วยิงเเสงออกมา เเสงนั้นไล่จากหัวลงมาถึงเท้าของทหารผู้เคราะร้าย ไม่น่าเชื่อเหนือหน้าตาเหมือนทหารคนนั้น เหมือนกับมองกระจกเลย,,,pressed,
+285,chat,คุณ,ทำไมคุณ..,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+286,chat,เหนือ,ต่อไปก็ตาคุณ,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,0
+287,info,,คุณกลัวว่าจะทำเเบบนั้นไม่ได้ เลยเดินหนี,,,pressed,
+288,chat,คุณ,นี้คุณจะเลิกเดินตามผมสักทีได้ไหม,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+289,chat,คุณ,ผมเเค่ไม่อยากทำร้ายใคร,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+290,info,,อยู่ ๆ เหนือก็ดึงคุณ เข้ามา,,,pressed,
+291,chat,คุณ,อะไรของคุณอีก,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+292,chat,เหนือ,เงียบ! มีคนเดินมา,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+293,chat,คุณ,คุณจะหูดีไปละไหม,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+294,chat,เหนือ,ก็บอกว่าเงียบก่อนไง,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+295,chat,คุณ,...,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+296,chat,คุณ,1..2..3!,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+297,info,,คุณกระโจนออกไป พร้อมเครื่องจดจำล่าง,,,delay,
+298,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/2%20-%20%E0%B9%81%E0%B8%9B%E0%B8%A5%E0%B8%87%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%9C%E0%B8%8D.jpg,,,delay,
+299,chat,เหนือ,นายมันโครคโชคดีเลย ฮ่า ๆ ๆเป็นผู้หญิงหุ่น x เเบบที่ฉันชอบเลย,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+300,chat,เหนือ,ถ้าเพื่อนหน่วยเรามีคนสวย ๆ ที่เป็นเเบบนาย,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+301,chat,เหนือ,ฉันคง...,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+302,chat,เหนือ,นายต้องอยู่ในร่างนี้จนถึงพรุ่งนี้เลยละ,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+303,chat,คุณ,คุณพึ่งตบตูดผม เเล้วมองผมด้วยสายตาอันตรายเเบบนี้,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+304,chat,คุณ,คงเป็นความโชคดีที่สุดของหน่วยที่ไม่มีผู้หญิง,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+305,chat,คุณ,เเล้วคนอื่นในหน่วยละ??,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+306,chat,เหนือ,ไม่รู้,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+307,chat,คุณ,นี้คุณไม่เคยเจอคนอื่น ในทีมเลยหรอ!,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+308,info,,เขายืนกอดอก หน้าตายเหมือนเรื่องที่พูดอยู่มันปกติดี,,,delay,
+309,chat,เหนือ,ใช่,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+310,chat,เหนือ,นายนะคนเเรกเลยที่เจอ,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+311,chat,เหนือ,หรืออาจเป็นคนที่พิเศษของหน่วยก็ได้เหมือนกัน,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+312,chat,คุณ,คนพิเศษของหน่วย??,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+313,chat,เหนือ,ก่อนหน้านี้ที่เจอนายในห้องน้ำเหมือนมีคนจงใจที่ฉันไปเจอนายนะสิ,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,0
+314,info,,เหนือเริ่มจริงจังจนหน้ากลัว,,,delay,
+315,chat,เหนือ,อีกอย่างความชุ้ยของนายเป็นเอกลักษณ์มาก เอกสารเเฟ้มคดีตกลงพื้นเห็นตราหน่วยหมดเเล้ว,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+316,chat,เหนือ,ถ้าฉันเป็นนักวิทย์อยู่ตรงนั้นนายต้องจบเห่เเน่ ทีหลังระวังตัวหน่อย เรื่องปิดความลับสำคัญมาก,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,0
+317,info,,ในตอนนี้ความเงียบเริ่มปกคลุม คุณเลยเปลี่ยนเรื่องคุยทันที,,,pressed,
+318,chat,คุณ,เมื่อกี่ด้านในคุณคุยอะไรกัน,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+319,chat,เหนือ,อือ..,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+320,chat,เหนือ,ดูเหมือนนักวิทย์นั่นพยายามศึกษาเครื่อง TMC เเล้วสร้างใหม่ให้พวกบฏที่เอาเเต่ซ่อนตัว,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+321,chat,คุณ,เเต่เขาทำงานวิจัยให้รัฐบาล เเล้วทำไม ถึงมาอยู่กับฝั่งกบฏได้ละ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+322,chat,เหนือ,ทำไมเราต้องซ่อนตัวด้วย พุ่งออกไปยิ่งโปง ๆ ก็ได้ ฉันไม่อยากรอเเล้ว,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+323,chat,คุณ,ไม่ได้!,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+324,chat,คุณ,ตรงนั้นมีคนตั้ง 10 กว่าคน ถ้าทำไม่สำเร็จเราได้โดนจับทั้งคู่เเน่,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+325,info,,มีภารกิจส่งมาจากหน่วย TS,,,delay,0
+326,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/unnamed.jpg,,,delay,0
+327,info,,วิหารเป็นส่วนหนึ่งของวัดเชียงมั่น ด้านในของวิหาร มีภาพจิตรกรรมฝาผนังเขียนสีทองบนพื้นเเดงบอกเล่าเรื่องราวการสร้างเมืองเเละวัดของพระญามังราย เวียงกุมกามเเละเมืองเชียงใหม่  มี 16 ภาพเเต่ละภาพจะมีคำบรรยายอยู่ด้านล่าง,,,delay,0
+328,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/IMG_20200131_141702.jpg,,,delay,0
+329,info,,จากคำด้านล่างภาพ มีอะไรที่รอดจากไฟไม่? (วิธีการตอบ) เริ่มต้นด้วย หอ... ทั้งหมดมี 9 พยางค์,,,answered,หอพระแก้วขาวเสตังคมณี
+330,info,,"พระญามังรายทราบได้อย่างไรว่า พระแก้วขาวศักดิ์สิทธิ์ด้านการป้องกันอัคคีภัย จึงได้นำไปเป็นพระประจำรัชกาล เคยทดลองเอาไฟเผามาแล้วหรือ? อยากรู้ต่อกดตรงนี้สิ  (<a target=""_blank"" href=""https://www.matichonweekly.com/culture/article_26984"">อ้างอิง</a>)",,,delay,
+331,chat,เหนือ,เเต่ฉันไม่คิดอย่างนั้นนะ,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,0
+332,info,,คุณโดนเหนือผลักออกจากที่ซ่อน ทันที่คุณออกไปพวกเขาก็พุ่งเข้ามาหาคุณ เหมือนซอมบี่ที่หิวกระหาย,,,delay,
+333,chat,หนึ่งในกลุ่มชาย,อ่าวจะกลับเเล้วหรือจะ ไม่ต้องรีบก็ได้,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%84%E0%B8%99.png,delay,0
+334,info,,คุณลองคิดต่อเองดูสิว่าจะเกิดอะไรขึ้นกลับคุณบ้าง,,,delay,0
+335,info,,คุณทำตัวไม่ถูก ได้เเต่หันไปส่งสายตาให้เหนือที่กำลังเดินเข้าประตูอาคาร เขาจิ้มที่นาฬิกาข้อมือ คุณเดาเอาเองว่า…,,,pressed,
+336,chat,คุณ,ถ่วงเวลา หมายถึงถ่วงไว้ก่อนใช่มัย!,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+337,chat,คุณ,จะเล่นใบ้คำอะไรตอนนี้เนี้ย!,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+338,info,,คุณยังไม่เข้าใจดี เหนือก็หายไปเเล้ว คุณทำได้เเต่อยู่ในโลกความเป็นจริง คุณหันมาหาชายพวกนั้น เเล้วยิ้มให้,,,pressed,
+339,chat,คุณ,(เป็นผู้หญิงเข้าใจยากผมจะทำได้ไหมเนี้ย),right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+340,info,,10 นาที ผ่านไป...,,,delay,
+341,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/4%20-%20%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B9%84%E0%B8%81%E0%B8%9B%E0%B8%B7%E0%B8%99.jpg,,,pressed,
+342,chat,คุณ,เเหมพี่ชายช่วยน้องหาอะไรเล่นหน่อยสิค่ะ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+343,info,,ตอนนี้เหมือนคุณจะเป็นผู้หญิงได้ดี เเต่ข้างในคุณร้อนเป็นไฟ จนทำให้เหงื่อระเหยได้,,,delay,
+344,chat,หนึ่งในกลุ่มชาย,ทำไมน้องเก่งจัง,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%84%E0%B8%99.png,pressed,
+345,chat,คุณ,แม น้องคงยิงไม่เเม่นเท่าพี่หรอก,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+346,chat,หนึ่งในกลุ่มชาย,หรือจะ,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%84%E0%B8%99.png,delay,0
+347,info,,ในที่สุดเหนือก็ออกมาพร้อมกับอะไรบางอย่างในมือ,,,delay,0
+348,info,,วินาทีเเรกที่เขาเห็นคุณทำตัวเป็นผู้หญิง เขาก็นั่งหัวเราะมองคุณอยู่ตรงนั้น,,,delay,0
+349,info,,คุณเลยใช้มารยาทั้งหมดที่มีเพื่อปลีกตัวออกมา คุณนัดกับเหนือที่สนามหญ้าที่คุณปรากฎตัว,,,delay,
+350,chat,เหนือ,นายเหมาะกับร่างนี้มากเลย ฮ่า ๆ ๆ,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+351,chat,เหนือ,ผู้หญิงตัวเล็กบอบบางกับการเเข่งยิงปืนเนี้ยนะ,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+352,chat,เหนือ,ชนะทหารมืออาชีพเป็น 10 ๆ คนด้วย,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+353,chat,คุณ,หยุดหัวเราะได้เเล้ว เมื่อกี่คุณไปเอาอะไรมา,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+354,chat,เหนือ,เครื่อง TMC ของนายไง นายชอบทำของสำคัญหายอยู่เรื่อย,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+355,chat,เหนือ,นายรับคดีเเรกก็เกือบทำความลับหน่วยเเตกไปหลายครั้ง,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+356,chat,เหนือ,ฉันอยากรู้จริง ๆ ทำไมนายถึงถูกเลือกเข้ามาโดยตรง นายไม่เคยเป็นทหารด้วยสำ้,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+357,chat,คุณ,(เขาสงสัยในเรื่องเดียวกับเราสินะ),right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+358,chat,คุณ,ขอบคุณ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+359,chat,เหนือ,นี้ รีบออกจากที่นี่ได้เเล้ว,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+360,chat,คุณ,ได้,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+361,info,,คุณกำลังใช้เครื่องย้อนกลับไปที่วัดเชียงมั่น เเต่คู่หูคุณมีท่าทีจะอยู่ต่อ,,,pressed,
+362,chat,คุณ,คุณไม่ไปละ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+363,chat,เหนือ,นายมีภารกิจของนาย ฉันเองก็มีของฉัน เเยกกันตรงนี้ดีกว่า,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+364,chat,คุณ,อ่อ งั้นเราจะได้เจอกันอีกไหม,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+365,chat,เหนือ,อะไรกันยังไม่ได้ไปก็คิดถึงขึ้นมาเเล้วหรือ,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+366,chat,คุณ,(นั้นเพราะไม่อยากเจอคุณอีกยังไงละ),right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+367,info,,เหนือยื่นปืนสั้นของเขาให้กับคุณ,,,pressed,
+368,chat,คุณ,จะดีหรอ ผม..,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+369,chat,เหนือ,เอาไปเถอะ ฉันเอาชนะคนด้วยมือเปล่านะ,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+370,chat,เหนือ,อีกอย่างเมื่อกี่นะไม่เลวเลย เห็นชัด ๆ ว่าคุณยิงเเม่นมาก,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+371,chat,คุณ,คือความจริง..,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+372,chat,เหนือ,นายอยู่นานเกินไปเเล้ว รีบไปตอนที่ยังไม่มีคนตามนายเถอะ,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+373,จบตอน,,,,,delay,0
+374,info,,ตอนนี้คุณยืนอยู่กลางตลาดที่มีผู้คนเดินไปมา หลายคนมองคุณอย่างประหลาดใจ ทั้งการแต่งกาย ทรงผมของคุณ แตกต่างจากคนที่นี่มาก,,,pressed,
+375,chat,คุณ,ยุคสมัยเปลี่ยนสินะ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+376,info,,คุณรีบหนีสายตาคนหมู่มาก เข้าไปในวัดเชียงมั่น วิ่งขึ้นไปบนอุโบสถหวังหาที่หลบ ด้วยความรีบคุณเลยไปชนกับบางสิ่งเข้า,,,delay,
+377,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/IMG_20200129_124933.jpg,,,pressed,
+378,chat,คุณ,โอย! เจ็บ ๆ ๆ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+379,chat,คุณ,นี่คืออะไรกัน รูปร่างเหมือนแผ่นหินสี่เหลี่ยมมียอดแหลมคล้ายใบเสมา,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+380,chat,คุณ,ดูแล้วน่าจะทำจากหินทรายสีเเดง ถึงได้เจ็บเเบบนี้,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+381,info,,คุณเดินเข้าไปดูใกล้ ๆ,,,pressed,
+382,chat,คุณ,ส่วนบนมีบางหลักบอกดวงชะตาบอกวัน เวลา นาที เดือน ปีที่สร้าง,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+383,info,,คุณหยิบเครื่องทรงกลมออกจากกระเป๋ากางเกง ทันทีที่คุณเเบมือลูกกลม ๆ ก็ลอยขึ้นไปกลางอากาศพร้อมเเสงที่ส่องออกมาพาดบนเเผ่นศิรา,,,delay,
+384,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/3%20-%20%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B9%81%E0%B8%81%E0%B8%99.jpg,,,delay,
+385,chat,เครื่อง EG,จำนวน 2 ด้าน รวม 70 บรรทัด ด้านที่ 1 มี 34 บรรทัด ด้านที่ 2 มี 36 บรรทัด ขนาดจารึกกว้าง 59 ซม. สูง 154 ซม. หนา 21 ซม.,left,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_010815.png,delay,
+386,chat,เครื่อง EG,เนื้อหาในจารึกเเบบสรุป พูดถึงประวัติการสร้างวัดเชียงมั่น ตั้งแต่ พ.ศ. ๑๘๓๙ จนถึง พ.ศ. ๒๑๒๔ พูดคือ เมื่อ พ.ศ. ๑๘๓๙ พระญามังราย พระญางำเมือง และพระญาร่วงร่วมกันตั้งหอนอน ณ ราชมณเทียร ขุดคู ก่อกำแพงสามชั้น ทั้ง ๔ ด้านและก่อพระเจดีย์ที่บ้านเชียงมั่น แล้วสร้างเป็นวัด ให้ชื่อว่าวัดเชียงมั่น,left,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_010815.png,delay,
+387,chat,เครื่อง EG,จนปี พ.ศ. ๒๐๑๔ พระเจ้าติโลกราช ทรงก่อพระเจดีย์ด้วยหินแลง,left,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_010815.png,delay,
+388,chat,เครื่อง EG,พ.ศ. ๒๑๐๑ สมเด็จพระมหาธรรมิกราชาธิราชเจ้าทรงพระราชทานอ่างอาบเงิน และ พ.ศ. ๒๑๑๔ ได้ก่อเจดีย์คร่อมเจดีย์เดิมอีกครั้งหนึ่งมีการสร้างแปลงก่อเจดีย์วิหารอุโบสถ สร้างธรรมเสนาสนะ กำแพง ประตูจนกระทั่งถึงปี พ.ศ. ๒๑๒๔ ได้มีการรวบรวมเงิน ที่ดิน และข้าพระจำนวนมากอุทิศแก่อารามแห่งนี้ ปัจจุบันอยู่ที่ วัดเชียงมั่น ตำบลศรีภูมิ อำเภอเมือง จังหวัดเชียงใหม่,left,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_010815.png,delay,0
+389,info,,พูดจบเครื่องก็ตกลงบนมือคุณ,,,pressed,
+390,chat,คุณ,เป็นจารึกที่เกี่ยวกับการสร้างวัดเชียงมั่น กับการสร้างเมืองเชียงใหม่สินะ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+391,chat,คุณ,"เเต่ที่น่าสนใจคือ ผู้ที่สร้างเมืองมีถึงสามคน ปกติเเล้วกษัตริย์มีคนเดียวคือผู้ให้เมืองกับประชาชนเเละขุนนางอยู่ดูเเล เเต่นี้กลับเป็นสามกษัตริย์ จากหลายเมือง ""พระญางำเมือง"" กษัตริย์เมืองพะเยา ""พระญาร่วง"" กษัตริย์เมืองสุโขทัย เเละ""พระญามังราย"" กษัตริย์...กษัตริย์",right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+392,chat,คุณ,กษัตริย์จากที่ไหนมันพูดยากเเหะ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+393,chat,คุณ,พระองค์เป็นโอรสของลาวเมง กษัตริย์แห่งหิรัญนครเงินยางเชียงราว กับนางเทพคำขยาย พระราชธิดาของท้าวรุ่งแก่นชาย กษัตริย์แห่งเมืองเชียงรุ่งสิบสองพันนา,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+394,chat,คุณ,เมื่อเสวยราชย์ สืบต่อจากบิดาใน พ.ศ. 1804 พระญามังรายตั้งใจที่จะสร้างอาณาจักรใหม่ จึงรวบรวมหัวเมืองต่าง ๆ ที่ยังเป็นอิสระอยู่ให้เป็นหนึ่งอันเดียวกัน,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+395,chat,คุณ,เริ่มจากหัวเมืองฝ่ายเหนือก่อน แล้วขยายมาฝ่ายใต้,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+396,chat,คุณ,ในช่วงนั้น ได้สร้างเมืองเชียงรายเป็นเมืองหลวงใหม่ เมื่อ พ.ศ. 1805 ต่อมาก็สร้างเมืองฝางเมื่อ พ.ศ. 1816,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+397,chat,คุณ,เเละตามมาด้วยเมืองชะแว่ ทางตะวันออกเฉียงเหนือของลำพูน เมื่อ พ.ศ.1826,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+398,chat,คุณ,เมืองนี้เกิดขึ้นหลังจากที่พระญามังรายตีเมืองหริภุญไชยได้,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+399,chat,คุณ,ตามตํานานพื้นเมืองเชียงใหม่ ระบุว่าหริภุญไชย (ลำพูน) ถูกพระญามังรายยึดครองในปี พ.ศ.1824 พระองค์ประทับอยู่ที่ลำพูนเพียง 2 ปี ก็ลั่นประโยคว่า “หริปุญไจยเป็นเมืองเจ้า กูอยู่บ่ได้”,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+400,chat,คุณ,นี่หมายถึงเมืองลำพูนเต็มไปด้วยวัดวาอาราม หรือเต็มไปด้วยพระด้วยเจ้า คนอย่างพระญามังราย ที่ยังไม่ได้เลื่อมใสในพระพุทธศาสนาอย่างแรงกล้ามาก่อน ย่อมรู้สึกอึดอัดที่มองไปทิศทางไหนก็เห็นแต่พระธาตุเสด็จทั่วเมืองลำพูน,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+401,chat,คุณ,เมื่อประกาศออกมาดังนั้นแล้ว พระญามังรายได้ยกเมืองลำพูนให้อ้ายฟ้า ขุนนางชาวลัวะผู้เป็นจารบุรุษ ช่วยสร้างความแตกแยกให้แก่เมืองหริภุญไชย จนพระญาญี่บาต้องพ่ายแพ้แก่มังราย ขึ้นนั่งครองแทน,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+402,chat,คุณ,ไม่ครอบครองเมือง ไม่ยกเมืองให้ลูกหลาน เเต่ยกเมืองให้ขุนนางคนสนิทเนี้ยนะ!,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+403,chat,คุณ,ก็รู้ ๆ อยู่หรือกว่าอ้ายฟ้าคนนี้เป็นคนยุยงเก่ง เพราะเขาคนเดียวทำให้พระญาญีบาเสียชื่อเสียงได้ เเละเป็นเขาที่ทำให้พระญามังรายได้เมือง,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+404,chat,คุณ,เราไม่รู้ว่าเบื่องหลังเป็นยังไง เเต่ที่เเน่ ๆ เมืองคงวุ่นวาย ใครมันจะไปยอมรับคนที่ทำให้บ้านเมืองตัวเองต้องเเตกหักมาปกครองเมืองกันละ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+405,chat,คุณ,จากนั้นพระญามังรายได้ย้ายไปสร้างเมืองขึ้นใหม่แห่งหนึ่ง ตั้งอยู่ทางทิศตะวันออกเฉียงเหนือของหริภุญไชย คือน่าจะอยู่ฟากตะวันออกของแม่น้ำกวง แม่แจว-เมืองแซว่,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+406,chat,คุณ,เอกสารแต่ละเล่มเรียกชื่อเมืองนี้แตกต่างกัน เช่น ตำนานพื้นเมืองเชียงใหม่ กล่าวว่า,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+407,chat,คุณ,จุลศักราช 645 ตรงกับพุทธศักราช 1826 เป็นปีที่พระญามังรายเริ่มสร้างเมืองใหม่ โดยขุดแม่น้ำผ่าหมู่บ้าน เรียกเมืองหรือแม่น้ำนั้นว่า “แม่แจว” พระญามังรายอยู่ที่เมืองใหม่นี้แค่เพียง 3 ปีก็เกิดน้ำท่วมต้องย้ายไปสร้างเมืองใหม่ในปี 1829 คือเวียงกุมกาม,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+408,chat,คุณ,ตำนานสิบห้าราชวงศ์ ฉบับสอบชำระโดย อาจารย์สมหมาย เปรมจิตต์ กล่าวถึงเหตุการณ์ช่วงนี้ว่า,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+409,chat,คุณ,“ศักราช 645 ตัว… พระญามังรายหื้อขุดแม่น้ำผ่าบ้าน หื้อเป็นที่ตกท่าแห่งคนทั้งหลาย ลวดเรียกว่า “แซว่” หั้นแล มีภายหนอีสานแห่งเมืองละพูน อยู่ที่นั้นได้ 1 ปี น้ำท่วมเมืองกลางวัสสา ช้างม้างัวควายหาที่อยู่บ่ได้ ลวดเรียกว่าเชียงเรือต่อเท่าบัดนี้แล”,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+410,chat,คุณ,ตำนานสิบห้าราชวงศ์ ระบุศักราชเริ่มสร้างเมืองใหม่ของพระญามังรายตรงกันกับตำนานพื้นเมืองเชียงใหม่ แต่บอกว่าพระญามังรายประทับที่นั่นเพียงปีเดียว ไม่ใช่ 3 ปี,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+411,chat,คุณ,ในขณะที่ ตำนานมูลศาสนา ที่เป็นเอกสารที่มีอายุเก่าแก่มากที่สุดในสามเล่มที่พูดมา (รจนาราวปี 1980) ได้พรรณนาประวัติศาสตร์หน้านี้ของพระญามังรายว่า,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+412,chat,คุณ,“ดูกรอ้ายฟ้า เมืองหริภุญไชยนี้เป็นเมืองมหาธาตุเจ้า กูอยู่มิได้แล กูจักออกไปอยู่ที่ทับทานแซ่โพ้น มึงจงอยู่เป็นใหญ่ในเมืองหริภุญไชยนี้เถิด”,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+413,chat,คุณ,ทับทานแซ่โพ้น “แซ่” ที่เขียนคล้าย “แซว่” อีกครั้ง อนึ่ง คำว่า “แม่แจว” ไม่ได้อ่านเหมือนคำว่าแจวเรือ แต่ภาษาล้านนาออกเสียงเป็น จะแหว้ เช่นเดียวกับคำว่า “แซว่” หรือ “แซ่” ก็ออกเสียงเป็น ชะแว่ หรือชะแหว้ ใช่มัย??,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+414,chat,คุณ,เขียนยังไรก็ช่าง แต่ทั้งหมดนั้นมีความหมายว่า เมืองเปียกน้ำ หรือเมืองที่น้ำท่วม,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+415,chat,คุณ,คนพื้นเมืองนิยมออกเสียงเป็นเมืองชะแว่ บ้างเรียก “แช่เชียงกุม” อ่าน “แจ้เจียงกุ๋ม” นี่เป็นเรื่องของภาษาเเต่ละที่ คนโบราณนี้มีอะไรให้ทำเยอะดีนะ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+416,chat,คุณ,ซึ่งก็ตรงตามจริงกับสภาพทางภูมิศาสตร์ของเมืองลำพูนฟากตะวันออกของแม่น้ำกวง มีลักษณะทางกายภาพเป็นพื้นที่ลุ่มต่ำน้ำท่วมง่ายกว่าฝั่งตะวันตกซึ่งเป็นที่ดอน,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+417,chat,คุณ,ส่วนเรื่องที่ว่าเมืองชะแว่อยู่ที่ไหนในปัจจุบัน,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+418,chat,คุณ,มีข้อมูลเพียงน้อยนิดที่มีการระบุถึงชื่อเมืองชะแว่ ว่าเป็นเมืองที่พระญามังรายสร้างและประทับชั่วคราวได้เพียงไม่กี่ปี (1-3 ปีเท่านั้น) จากนั้นจำต้องย้ายไปสร้างเมืองใหม่คือ เวียงกุมกาม แต่สุดท้ายน้ำก็ท่วมเมืองนี้ซ้ำอีก,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+419,chat,คุณ,ไม่มีรายละเอียดว่าเมืองชะแว่จะมีขนาดใหญ่-เล็กแค่ไหน มีวัดวาอารามกี่แห่ง สันฐานผังเมืองเป็นรูปทรงอย่างไร,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+420,info,,มีภารกิจส่งมาจากหน่วย TS,,,delay,0
+421,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/IMG_20200131_110629.jpg,,,delay,0
+422,info,,ทางหน่วยได้ส่งข้อมูลไปให้คุณเป็นคิวอาร์ โค้ด เเต่วิธีที่คุณจะเปิดใช้ได้ ต้องไขรหัสลับในคลิปปริศนาก่อน โดนรหัสรับนั้นต้องตอบเป็นตัวเลข เเละอยู่ในคลิปที่ความยาวไม่เกินหนึ่งนาที ขอให้คุณโชคดี,,,delay,0
+423,info,,"เพื่อความปลอดภัยของข้อมูล เราจะใบ้รหัสให้ว่า ""วิหารของวัดเชียงมั่นมีกี่ที่?"" (วิธีการตอบ) ตอบเป็นตัวเลขเท่านั้น",,,answered,2
+424,info,,หวังว่าข้อมูลในคลิปทั้งหมดจะช่วยให้คุณทำภารกิจให้ลุล่วง เเละทันเวลา,,,delay,0
+425,chat,คุณ,น้ำท่วมแล้วท่วมอีก หรือว่าพระญามังรายไม่ถนัดการวางแผนสร้างเมืองในที่ลุ่มดีพอ เพราะเป็นคนที่มีพื้นเพดั้งเดิมจากเมืองแถบภูเขา?,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+426,chat,คุณ,ต่อมาก็สร้างเวียงกุมกาม เเต่ก็น้ำท่วมอีก,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+427,chat,คุณ,เเล้วที่สุดท้ายจังหวัดเชียงใหม่ เมื่อ พ.ศ. 1829,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+428,chat,คุณ,พระญามังรายก็ทรงชื่อว่าเป็นปฐมกษัตริย์แห่งราชวงศ์และอาณาจักรทั้งสองด้วย,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+429,chat,คุณ,อันนี้ละว่าบอกอยากอะ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+430,chat,คุณ,เเต่อย่างน้อยก็ทำให้เรารู้ว่า ก่อนที่พระญามังรายจะสามารถสร้างเมืองเชียงใหม่อย่างยิ่งใหญ่อลังการได้ ต้องผ่านการลองถูกลองผิดในการสร้างเมืองในเขตที่ราบลุ่มริมแม่น้ำมาแล้วถึงสองเมือง,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+431,chat,คุณ,เมืองชะแว่ที่ถูกลืม อยากเห็นจัง ว่าศิลปสถาปัตยกรรมในเมืองชะเเว่ พระญามังรายหยิบยืมรูปแบบศิลปะของหริภุญไชยมาใช้มากเท่าไร เพราะยุคนั้นพระองค์ยังไม่สามารถรังสรรค์รูปแบบศิลปะล้านนาขึ้นมาใหม่ได้เลยแม้แต่น้อย,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+432,chat,คุณ,น่าจะลาออกจากหน่วยเเล้วไปเป็นนักประวัติศาสตร์เนอะ ฮ่า ๆ ๆ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+433,chat,คุณ,กลับมา เราก็เห็นๆ อยู่ว่ากษัตริย์ทั้งสามพระองค์ที่ช่วยกันสร้างเมืองเชียงใหม่ต่างมีสิทธิที่จะครองเมือง,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+434,chat,คุณ,เเต่คนที่ปกครองเมืองเชียงใหม่กลับมีเเค่พระญามังรายคนเดียว,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+435,chat,คุณ,งั้นสรุปว่าพวกท่านเป็นเพื่อนรักกันจริง ๆ รึป่าว??,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+436,chat,คุณ,พระญามังรายเป็นเพื่อนกับพระญางำเมือง กษัตริย์เเ่ห่งพะเยา และพระญาร่วงกษัตริย์เเห่งสุโขทัย ทั้งสามเป็นศิษย์สำนักเดียวกันที่เมืองละโว้ ทั้งสามยังเป็นเพื่อนร่วมสาบานกันด้วย,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+437,chat,คุณ,พ.ศ. 1819 พระญามังรายทรงยกทัพไปตีเอาเมืองพะเยา แต่เมื่อไปถึง พระญามังรายกับพระญางำเมืองกลับเป็นไมตรีต่อกัน ทำให้ข้อขัดแย้งสิ้นสุดลง,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+438,chat,คุณ,บทมันจะง่ายก็ง่ายเลยเนอะ ถ้าพวกเขาสองคนสู้กันใครจะชนะนะ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+439,chat,คุณ,หลังจากนั้นไม่นาน พระญาร่วงกับมเหสีของพระญางำเมืองเป็นชู้กัน พระญางำเมืองเชิญพระญามังรายมาตัดสิน ทำให้พระญางำเมืองกับพ่อขุนรามคำแหงกลับเป็นมิตรกันดังเดิม,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+440,chat,คุณ,...,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+441,chat,คุณ,ตอนที่พระญามังรายจะสร้างล้านนาที่เมืองเชียงใหม่ ก็ปรึกษากับสหายทั้งสอง พระญาร่วงแนะนำว่า ควรลดขนาดเมืองลงครึ่งหนึ่งจากเดิมวางผังให้ยาวด้านละสองพันวา เพราะเมื่อเกิดศึกสงครามในอนาคต ผู้คนที่ไม่มากพอจะไม่อาจปกปักรักษาบ้านเมืองที่กว้างขวางถึงเพียงนั้นได้ พระญามังรายก็เห็นชอบด้วย,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+442,chat,คุณ,มิตรภาพระหว่างกษัตริย์ทั้งสามพระองค์ ทำให้แต่ละพระองค์สามารถขยายดินแดนไปได้อย่างไม่ต้องทรงพะวงหน้าพะวงหลัง,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+443,info,,อยู่ ดี ๆ รอบตัวคุณก็มีลมหนาว,,,pressed,
+444,chat,คุณ,นี่เราพูดมากจนอากาศเเปรปรวนเลยหรือ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+445,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/3%20-%20%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B9%81%E0%B8%95%E0%B8%81.jpg,,,delay,0
+446,info,,เเก็ก! พื้นที่คุณอยู่มีเเสงระเบิดออกมาไม่หยุด คุณเด่งมานั่งอยู่ที่พื้น แสงพุ่งขึ้นไปบนฟ้า,,,pressed,
+447,chat,คุณ,เห้ย! มันทะลุหลังคาถ้ายังเป็นเเบบนี้ต่อไปคนต้องเเห่กันมาที่นี่เเน่,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+448,info,,คุณมองซ้ายมองขวา เห็นเพราะศิราอยู่ในกระเป๋า คุณเอื่อมมือไปหยิบกระเป๋ามา,,,pressed,
+449,chat,คุณ,ขนาดพอ ๆ กันละ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+450,info,,คุณยกพระศิราขึ้นสูง ๆ เเล้ววางปิดรูเเสงได้ คุณหายใจหอบ เเล้วคุกเข่าว่ายพระ,,,pressed,
+451,chat,คุณ,ขอบคุณสิ่งศักดิ์สิทธิ์ที่คุ้มครอง ขอให้ลูกจับโจรได้เร็วด้วยเถอะ ลูกจะได้กลับบ้านสักที,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+452,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/IMG_20200129_124719.jpg,,,delay,0
+453,info,,เมื่อคุณลุกขึ้นมา ก็เห็นศิราจารึกโปร่งเเสง มันทำให้คุณต้องจ้องมองพระศิรา,,,pressed,
+454,chat,คุณ,ขอบคุณครับ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+455,info,,ด้วยความไม่เเน่ใจผสมกลัว ทำให้คุณเอามือผ่านศิราจารึก มือคุณไม่ทะลุเหมือนข้างในนั้นจะมีทางไปที่อื่นอยู่ วินาทีนั้นก็มีบางอย่างผลักคุณจากด้านหลังให้เข้าไปด้านใน,,,pressed,
+456,chat,คุณ,อ้ายยย!!,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+457,chat,คุณ,ใครผลักนะ ปัดเสื้อปัดผ้า ดูเหมือนบางอย่างที่นั้นอยากให้เรากลับบ้านจริง ๆ ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+458,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/3%20-%20%E0%B8%A5%E0%B8%B2%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%B2%E0%B8%A3.jpg,,,delay,
+459,chat,ทหารยาม,ใครอยู่ตรงนั้น!,left,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_005526.png,delay,0
+460,info,,คุณรีบเดินเลาะตามกำเเพงไปหลบที่อาคารหนึ่ง เห็นเด็กผู้ชายใส่เเว่นหน้าตาคุ้นเคย,,,pressed,
+461,chat,คุณ,นี่คือนักวิทย์ตอนเด็กงั้นหรือ??,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+462,info,,ภาพที่คุณเห็นคือ นักวิทย์ตัวน้อยโดนทหารรัฐบาลจับไว้ เขาร้องไห้ สายตาเขามองเพียงพ่อกับเเม่ที่โดนจับเเยกคุกเข่า เเละมีทหารหน่วยพิเศษยืนระหว่าง,,,pressed,
+463,chat,คุณ,ทหารหน่วยพิเศษ เราอยู่ในสงครามกบฏเมื่อ14ปีที่เเล้ว,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+464,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/4%20-%20%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B9%84%E0%B8%81%E0%B8%9B%E0%B8%B7%E0%B8%99.jpg,,,delay,0
+465,info,,เด็กชายโวยวายร้องห้าย ไม่นานก็มีเสียงปืนสองนัดดังขึ้น ปั่ง ๆ เด็กชายนั่งคุกเข่าอยู่หน้าหลุมศพสองศพท้ามกลางสายฝน,,,delay,0
+466,info,,เด็กชายนั่งคุกเข่าอยู่หน้าหลุมศพสองศพ,,,pressed,
+467,chat,คุณ,คนที่มีความเกี่ยวข้องกับกบฏไม่สามารถทำงานราชการได้ หรือเขาปลอมเเปลงประวัติส่วนตัว!,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+468,chat,คุณ,เรากลับมาที่บ้านเเล้วหรือเนี้ย,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+469,info,,เมื่อคุณมองไปที่ถนน ก็เห็นนักวิทย์อยู่กลางเมือง,,,delay,
+470,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/3%20-%20%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B9%8C%E0%B8%A1%E0%B8%B5%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99.jpg,,,pressed,
+471,chat,คุณ,เขาตอนทำงานเเล้ว มีเพื่อนฝูง มีสาว ๆ เดินตาม,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+472,chat,คุณ,จะว่าไปเขาก็ดูมีความสุขเหมือนคนปกตินี่ หรืออาจดีกว่าด้วยซ้ำ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+473,chat,คุณ,โอ๊ะ! พวกเขาเเยกย้ายกันเเล้ว เหลือนักวิทย์คนเดียว,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+474,chat,คุณ,ตอนนี่เขาน่าจะยังไม่รู้จักเรานะ ไปหาเขาหน่อยดีกว่า,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+475,info,,คุณกำลังเดินเข้าไปหานักวิทย์ เเต่คุณก็หยุดดูทีวีข้างทางมีเเต่ภาพล้อเลียนกบฏ ดูถูกกบฏ,,,pressed,
+476,chat,คุณ,จริงสิกบฎสำหรับที่นี่ก็คือตัวตลก เขาทนเห็นเเบบนี้จนโตได้ยังไงนะ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+477,info,,คุณเดินตามเขาไป ดูเขาจากด้านหลัง ในใจก็คิดเห็นใจเขา บางทีถ้าเขาไม่ได้เกิดมาเป็นลูกกบฎ ระดับความฉลาดของเขาคงทำให้เขาเป็นใหญ่ เเละช่วยโลกนี้ได้อีกเยอะเลย คุณเดินตามหลังเขาจนถึงร้านอาหารเเห่งหนึ่ง,,,delay,
+478,chat,เเม่ค้า,รู้ว่าเป็นลูกกบฏ ไม่มีใครเขารับเเกหรือ ,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%AB%E0%B8%8D%E0%B8%B4%E0%B8%87.png,pressed,
+479,chat,คุณ,เหตุการตอนนั้นเริ่มรุนเเรงขึ้น เขาทิ้งกระเป๋าเเล้ววิ่งเข้าร้านไปช่วยกบฏคนนั้นออกมา เพราะเรื่องนี้ทำให้คนรู้ความจริง เเละทำให้เขาโดนไล่ออกสินะ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+480,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/3%20-%20%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B9%8C%E0%B9%82%E0%B8%94%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%81.jpg,,,pressed,
+481,chat,คุณ,เพื่อนที่สนิทกับเขาก็เปลี่ยนไป เขาโดนเเกล้ง ถูกเอาของไปซ่อนบ้าง ไม่เเปลกเลยที่จะไปเข้ากับฝั่งกบฎ เขาคงเก็บกดมาก,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+482,chat,คุณ,ดูเหมือนตัวร้ายทุกตัวจะไม่ได้ร้ายตั้งเเต่เเรกนะ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+483,info,,คุณเดินไปจนถึงห้องหนึ่งที่มีเตียงเยอะ ๆ เมื่อคุณเดินเข้าไปด้านในก็มีเเขนโผล่ออกจากเตียงถัดไปที่มีม่านคั่นอยู่,,,delay,
+484,chat,ผู้หญิงคนหนึ่ง,408ตอนนี้คุณเป็นใคร ,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%84%E0%B8%99.png,delay,0
+485,info,,คุณหันหลังกำลังจะเปิดม่านออก เเต่ก็มีเสียงเหมือนบางอย่างกำลังเครื่อนอยู่ด้านบน เเล้วคุณก็หมดสติไป,,,delay,0
+486,info,,เมื่อตื่นขึ้นมาคุณกลับมาที่วัดเชียงมั่น,,,pressed,
+487,chat,คุณ,ที่เเท้เขาก็มีอดีตที่บังคับให้เป็นเเบบนี้เอง,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+488,chat,คุณ,เเต่จะเป็นไปได้ไหมนะที่จะมีคนชื่อเหมือนเรา เเต่ถึงจะน่าสงสารเเค่ไหนหน้าที่ก็คือหน้าที่ คนทำผิดก็ต้องรับโทษอยู่ดี,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+489,chat,คุณ,เตียมตัวรับโทษได้เเล้ว อ่อต้องเอาพระศิลาไปคืนด้วย,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+490,จบตอน,,,,,delay,0
+491,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/4%20-%20%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B9%84%E0%B8%81%E0%B8%9B%E0%B8%B7%E0%B8%99.jpg,,,delay,0
+492,info,,เสียงปืนดังสนั่นอย่างต่อเนื่อง,,,pressed,
+493,chat,คุณ,เราเเยกกันไม่ถึงอาทิตย์เลยนะคุณไปทำอะไรไว้เนี้ย,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+494,chat,เหนือ,นั้นเพราะเราเเยกกันไม่ได้ไงละ,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,0
+495,info,,พวกคุณวิ่งสุดชีวิต,,,delay,
+496,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/IMG_20200129_125050.jpg,,,delay,
+497,chat,เหนือ,อาคาร 2 ชั้นตรงนั้น (หายใจฮอบ) ที่มีชั้นล่างก่ออิฐฉาบปูน ชั้นบนเป็นไม้ คืออะไร?,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+498,chat,คุณ,นายไม่รู้จริง ๆ นะหรอ หอไตรสร้างขึ้นเมื่อ พ.ศ. 2505 ศิลปะสถาปัตยกรรมแบบล้านนา เป็นที่ประดิษฐานรูปเหมือนครูบาศรีวิชัย นักบุญแห่ง ล้านนาไทย หายากเลยละ ถามทำมัย??,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+499,info,,เหนือทำหน้าเครียด,,,delay,
+500,chat,เหนือ,ระเบิดไม่ได้สินะ,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+501,chat,คุณ,เห้ย! เเล้วจะระเบิดทำไม,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+502,info,,ในตอนนั้นมีคนออกมาจากด้านหลังคุณ เหนือเลยช่วยคุณไว้,,,delay,
+503,chat,เหนือ,บอกเเล้วผมเอาชนะด้วยมือเปล่า,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,0
+504,info,,เหนือหันมายิ้มให้คุณ,,,delay,
+505,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/4%20-%20%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B9%84%E0%B8%81%E0%B8%9B%E0%B8%B7%E0%B8%99.jpg,,,delay,
+506,chat,เหนือ,โอ้ย!,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,0
+507,info,,เหนือโดนยิงที่หัวไหล่,,,pressed,
+508,chat,คุณ,(ถึงหน้าตาจะดีเเต่ก็ไม่ใช่พระเอกอะนะ ฮ่า ๆ ๆ),right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+509,chat,เหนือ,เป็นด่านหน้าให้ที,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,0
+510,info,,เขาหยิบปืนในกระเป๋าคุณออกมา เเล้วยื่นให้คุณ,,,delay,0
+511,info,,ทันทีที่คุณสัมผัสปืน คุณก็รู้สึกว่านี่ไม่ใช่ตัวคุณเลย,,,delay,0
+512,info,,คุณยิงไม่พลาดเลย ด้านนอกมีเเต่คนนอนเกลื่อนกลาดเต็มไปหมด คุณมองไปที่พวกเขา เเล้วเหมือนคิดอะไรได้,,,pressed,
+513,chat,คุณ,(เราไม่เคยจับปืนมาก่อนทำไมถึงได้คุ้นชินกับมันนักนะ ก่อนหน้านี้ที่เป็นผู้หญิงด้วย),right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+514,info,,เหนือพยายามลุกขึ้นยืน คุณคว้าเขาไว้ทัน พวกคุณเข้าไปหลบในหอไตร เเล้วพันเเผลรักษา,,,delay,
+515,chat,เหนือ,เราต้องวางเเผนจับโจร มันใกล้จะทำสำเร็จเเล้ว เราต้องทำให้สถานที่เสียหายน้อยที่สุดเพราะมันอาจเปลี่ยนอนาคตได้,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+516,chat,คุณ,(อ่อ เมื่อกี่ใครกันนะที่จะระเบิดหอไตรนะ),right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+517,info,,คุณช่วยเหนือพันเเผลปากก็พูดเรื่องที่ค้นคว้ามาได้เกี่ยวกับพระญามังรายไม่หยุด,,,delay,
+518,chat,เหนือ,นายพูดมากขนาดนี้กลัวเขาไม่รู้รึไงว่าเราอยู่ที่นี่นะ,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+519,chat,คุณ,...,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+520,info,,มีภารกิจส่งมาจากหน่วย TS,,,delay,0
+521,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/unnamed.jpg,,,delay,0
+522,info,,วิหารเป็นส่วนหนึ่งของวัดเชียงมั่น ด้านในของวิหาร มีภาพจิตรกรรมฝาผนังเขียนสีทองบนพื้นเเดงบอกเล่าเรื่องราวการสร้างเมืองเเละวัดของพระญามังราย เวียงกุมกามเเละเมืองเชียงใหม่  มี 16 ภาพเเต่ละภาพจะมีคำบรรยายอยู่ด้านล่าง,,,delay,0
+523,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/IMG_20200131_141730.jpg,,,delay,0
+524,info,,ในนิมิตของพระญามังรายเห็นหนูเผือกห้าตัววิ่งลงรูอะไร? (วิธีการตอบ) สองพยางค์,,,answered,นิโครธ
+525,info,,"เหตุการณ์เกิดขึ้นใน พ.ศ.1834 เมื่อพระญามังรายอายุได้ 57 ปี ขณะประทับอยู่ที่เวียงกุมกาม (ราชธานีชั่วคราวหลังจากที่ตีลำพูนได้) เริ่มมีแนวคิดเสาะแสวงหาสถานที่สร้างราชธานีแห่งใหม่แทนที่เดิมซึ่งน้ำท่วมถึงจึงค่อยๆ พาบริวารมาตั้งพลับพลาชั่วคราวทางทิศตะวันตกเหนือของเวียงกุมกาม เริ่มจาก “บ้านแหน” เพื่อเล็งหาไชยภูมิสถานที่เหมาะสม ให้พวกบริวารเอา “หน่าง” ภาษาล้านนาหมายถึง “ไม้ไผ่เหลาเป็นซี่ๆ” มากางเป็นรั้วให้เรียกบริเวณนั้นว่า “รั้วหน่าง” (ปัจจุบันคือบริเวณที่อยู่ใกล้กับที่ตั้งของวิทยาลัยนาฏศิลป์เชียงใหม่)พระญามังรายยั้งนอนที่นั่น 3 คืน ก็ไม่เห็นนิมิตอันใด จึงย้ายสถานที่เขยิบออกไปทางทิศตะวันตกเฉียงเหนืออีกหน่อย ให้ไพร่พลช่วยกันขุดคันดินขึ้นมาเป็นรั้วป้องกัน เรียกบริเวณนั้นว่า “เจียงเฮือก” (หรือเชียงเลือก อยู่แถววัดอู่ทรายคำ) ยั้งนอนอีก 3 คืนก็ไม่บังเกิดนิมิตใดๆ อีกเช่นเคย แสดงว่ายังไม่ใช่สถานที่ที่เหมาะสมจะสร้างบ้านแปลงเมือง จึงเขยิบมาที่ราวป่าแห่งหนึ่ง (สนใจอ่านต่อได้ที่) <a target=""_blank"" href=""https://www.matichonweekly.com/culture/article_20352"">อ้างอิง</a>",,,pressed,
+526,chat,คุณ,งั้นผมพูดเบา ๆ ละกันนะ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+527,chat,เหนือ,นี่นายไม่รู้จริง ๆ นะหรือ ฉันฟังนายจนเบื่อเเล้ว,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+528,chat,เหนือ,ช่วงนี้ทำไมสนใจเรื่อง พระญามังรายขึ้นมา,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+529,chat,เหนือ,พระองค์มาเข้าฝันนายรึไง,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+530,chat,คุณ,(เป็นชุดเลย...) ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+531,chat,คุณ,ถามจริงนายไม่สงสัยในความสัมพันของกษัตริย์ทั้งสามพระองค์บ้างเลยหรือ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+532,chat,เหนือ,อันนี้คือสงสัยมากมัย,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+533,chat,เหนือ,"บอกตรง ฉันคิดว่านายน่าจะรู้เรื่อง รักสองต้องห้ามของ ""พระญามังราย"" มาบ้างนะ",left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+534,chat,คุณ,ผมไม่เคยได้ยินนะ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+535,info,,เหนือยิ้มให้คุณ,,,delay,
+536,chat,เหนือ,เเสดงว่าไม่ใช่ขาเม้า,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+537,chat,เหนือ,อันที่จริงเรื่องเมียน้อยเมียหลวง สนมลับ ลูกนอกสมรส หรือปมด้านมืดของผู้นำประเทศระดับกษัตริย์ทั่วโลกในอดีตมีอยู่ไม่น้อย,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+538,chat,เหนือ,แม้นลาจากโลกนี้ไปนานกว่า 700 ปีแล้ว แต่สังคมเมืองเหนือยังพูดกันไม่จบไม่สิ้น ถึงปริศนาการสวรรคตของพระองค์ ว่าเกี่ยวกับการมีมเหสีสององค์หรือไม่?,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+539,chat,คุณ,หรือคือเรื่องของ อั้วมิ่งเวียงไชย - อุสาปายโค,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+540,chat,เหนือ,อ่าว ไหนว่าไม่เคยได้ยินไง,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+541,chat,คุณ,ผมเห็นชื่อ อั่วมิ่งเวียงไชย ผ่าน ๆ  เเต่ไม่ได้ไปค้นคว้าต่อ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+542,chat,เหนือ,"นางคือมเหสีองค์แรกที่อภิเษกสมรสกับพระญามังรายชื่อว่า ""นางพระญาอั้วมิ่งเวียงไชย"" เป็นชื่อที่ระบุถึงชาติกำเนิดว่ามาจากเวียงไชยนารายณ์ ",left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+543,chat,คุณ,ที่อยู่ตรงรอยต่อระหว่างเชียงรายกับพะเยานะหรือ? ในยุคนั้นเป็นเวียงหน้าด่านของพะเยา,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+544,chat,คุณ,ถ้าเช่นนั้นก็หมายความว่า กษัตริย์สองราชวงศ์ต่างก็พระราชทานชายาแลกเปลี่ยนกัน ระหว่างสายเชียงรายมอบนางอั้วเชียงแสนให้พระญางำเมือง ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+545,chat,คุณ,กับทางพะเยาก็มอบนางอั้วมิ่งเวียงไชยแด่พระญามังราย เเบบนี้ปะ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+546,chat,คุณ,เข้าทำนอง สองคู่ชู้ชื่น สองเมืองมหามิตรที่ห้ามคิดทรยศต่อกันชั่วนิรันดร์,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+547,info,,คุณพูดไปก็เหมือนจะออกเรื่องไปเรื่อย ๆ ,,,delay,
+548,chat,เหนือ,คู่หู ๆ ฉันว่านายไปไกลละ เอาสติมาไว้ที่นี่ก่อน,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+549,chat,เหนือ,นางอั้วมิ่งเวียงไชยมีลูกกับพระญามังรายสามองค์ คือขุนเครื่อง ขุนคราม และขุนเครือ นัยว่านับแต่เหตุการณ์ที่พระญามังรายได้ประหารขุนเครื่องพระโอรสองค์โต ณ เวียงพร้าว ด้วยเหตุที่ระแวงว่าลูกชายจะก่อกบฏยึดบัลลังก์ของตน,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+550,chat,เหนือ,หัวอกแม่ได้แต่คร่ำครวญหวนไห้ สายสัมพันธ์ความรู้สึกสวีตหวานที่เคยมีต่อพระสวามีก็เริ่มถดถอยลงจนเหลือศูนย์ ,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+551,chat,เหนือ,นายลองไปถามผู้หญิงดูทั้งโลกก็ได้ว่าเธอจะเลือกใคร ระหว่างสามีกับลูก ต่อให้คนทั้งโลกประณามว่าลูกคุณนั้นชั่วแสนชั่วก็ตาม,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+552,chat,เหนือ,หลังจากพระญามังรายกล้าพิฆาตขุนเครื่อง ก็ไม่มีอะไรที่จะหยุดยั้งอาการเลือดเข้าตา กระหายสงครามของพระองค์ได้อีก การยึดหริภุญไชยนครคือเป้าหมายหลัก โดยหวังจะข่มขวัญอาณาจักรอื่นๆ ให้ยอมศิโรราบ,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+553,chat,เหนือ,"ด้วยกำลังใจฮึกเหิมเกินร้อย พระญามังรายกล้ายาตราทัพไปถึงเมืองหงสาวดี ศูนย์กลางอาณาจักรมอญ พระเจ้าสุทธโสมตกใจกลัวในเดชานุภาพ จึงยอมถวายพระธิดานาม ""อุสาปายโค"" ให้เป็นชายา",left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+554,chat,คุณ,"ชื่อจริงคงมีแค่ ""อุสา"" ส่วน ""ปายโค"" นั้นมาจากคำว่า ""พะโค"" หรือ Pegu (ฝรั่งออกเสียง เปกู) อันเป็นอีกชื่อหนึ่งของหงสาวดี แต่ชาวล้านนาและชาวมอญสมัยนั้นคงไม่ได้ออกเสียงว่าพะโคเหมือนสมัยนี้",right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+555,chat,คุณ,เเต่สิ่งที่น่าคิดคือ ทำไมพระราชาทั่วแว่นแคว้นถึงกล้าเอาชีวิตลูกสาวเป็นเดิมพัน ยกให้ไปอยู่ในเงื้อมมือศัตรูกันดื้อๆ ทุกครั้งที่มีวิกฤติใกล้เสียเมือง,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+556,chat,คุณ,"ยกตัวอย่างกรณีของพระญากาวิละ ตอนกอบกู้อิสรภาพจากพม่า ช่วงนั้นสยามยกกองทัพขึ้นมาช่วยรบ ด้วยความเกรงกลัวบารมี พระญากาวิละถึงกับถวายหลานสาวองค์หนึ่งแก่พระเจ้าตากสิน สตรีนางนี้ไม่มีใครทราบชื่อเรียกกันแต่ว่า ""นัดดานารี"" ครั้นเมื่อเปลี่ยนราชวงศ์เป็นจักรี พระญากาวิละก็ได้ถวายน้องสาวนามเจ้าศรีอโนชา แด่กรมพระราชวังบวรมหาสุรสิงหนาถหรือวังหน้าอีก",right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+557,chat,คุณ,วัฒนธรรมอุษาคเนย์เป็นสังคมที่พิสดาร เมื่อคลอดได้ลูกหญิง พ่อแม่มักไม่ปลื้ม แต่แล้วยามสถานการณ์หน้าสิ่วหน้าขวานถูกศัตรูรังแกทีไร ลูกสาวกลับกลายเป็นของสูงค่า ถูกนำมาใช้เป็นอำนาจต่อรองทางการเมืองโดยไม่ตะขิดตะขวงใจ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+558,chat,คุณ,ถ้างั้นมังรายกับปายโค พิศวาสหรือการเมือง?,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+559,chat,เหนือ,นายพูดได้ขนาดนี่ไปหาอ่านเองต่อเถอะ,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+560,chat,คุณ,เห้ย! คุณก็อย่าห่วงความรู้สึก,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+561,chat,คุณ,ที่ผมวิเคราะห์ได้เพราะผมอ่านหนังสือนิ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+562,info,,ดูเหมือนพวกคุณจะทะเลอะกันอีกเเล้วนะ,,,delay,
+563,chat,เหนือ,จบเเล้วนะ ฉันจะเล่าต่อ นายต้องเงียบ...เข้าไว้,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+564,chat,คุณ,อื่อ!,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+565,chat,เหนือ,ภายหลังจากที่พระญามังรายพานางปายโคสู่เชียงใหม่แล้ว นางอั้วเวียงไชยเกิดอาการน้อยอกน้อยใจไม่พูดไม่จา หนีไปบวชชีอยู่ที่เวียงกุมกาม โดยพกพารอยแค้นเก่าจากการสูญเสียลูกชายคนโตหนุนเป็นทุนเดิมอยู่แล้ว,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+566,chat,เหนือ,เพิ่มดีกรีความขุ่นเคืองซ้ำด้วยโฉมงามธิดาหงสาวดี,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+567,chat,คุณ,มองในมุมของพระญามังราย ดูเหมือนจะไม่มีทางเลือกมากนัก ทางเลือกที่ว่านี้ไม่ได้หมายถึงเรื่องของความรัก ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+568,chat,คุณ,บุคคลสาธารณะเช่นพระองค์ไม่อยู่ในฐานะที่จะเปิดเผยความลับของหัวใจ คนภายนอกอาจมองว่าพระองค์หลงใหลนางปายโคชนิดโงหัวไม่ขึ้น ประสาได้ใหม่ลืมเก่า,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+569,chat,เหนือ,"เมื่อพิเคราะห์ให้ดีจะเห็นว่า การมาของนางปายโคพร้อมกลุ่มสล่าช่างฝีมือที่ติดตามมาด้วยไม่ต่ำกว่า 500 ชีวิตนั้น คือสิ่งที่พระญามังรายปรารถนาเป็นล้นพ้น เหตุที่ต้องทนแบกรับคำสบประมาทของชาวหริภุญไชยมานานว่า ""มังรายชนะเราแค่กองทัพ แต่พ่ายแพ้ทางวัฒนธรรมโดยสิ้นเชิง""",left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+570,chat,คุณ,ในสายตาชาวหริภุญไชยเห็นพระญามังรายเป็นเพียงชนป่าเถื่อนที่มีแต่พละกำลังดุดันคะนองศึก ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+571,chat,คุณ,เมื่อตีลำพูนแตกแล้ว ในนามของผู้ชนะแทนที่จะนำเอาอารยธรรมที่สูงส่งกว่ามาสถาปนาให้แก่ผู้ปราชัยบ้าง,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+572,chat,คุณ,กลับมีแต่ขโมยภูมิปัญญา อักขระ ศิลปกรรม ดนตรี พุทธศาสนา ความศิวิไลซ์ทั้งหมดที่ลำพูนเคยรุ่งโรจน์ เคลมเอาไปเป็นของตัวหน้าตาเฉย,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+573,chat,เหนือ,ในเมื่อพระญามังรายเข้าตาจน มองไม่เห็นหนทางว่าจะพัฒนาฟื้นฟูอาณาจักรล้านนาให้ทัดเทียมกับเมืองหริภุญไชยได้อย่างไร การมาของช่างศิลปกรรมชาวมอญหงสาวดีจึงเปรียบเสมือนเทพประทาน,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+574,chat,เหนือ,พระญามังรายจำต้องเลื่อนฐานะนางปายโคมาเป็นมเหสีหมายเลขหนึ่งแทนที่องค์เดิม ที่แท้แล้วก็มีนัยยะทางการเมืองแฝงอยู่เต็มๆ,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+575,chat,เหนือ,เพราะหลังจากนั้นมาเมืองเชียงใหม่ก็อร้าอร่ามไปด้วยสถาปัตยกรรมวิจิตรบรรจงทัดเทียมกับเมืองพุกาม อังวะ หงสาวดี เป็นเครื่องตอกย้ำว่ามังรายคือผู้ที่มีชัยชนะเหนือหริภุญไชยอย่างแท้จริง,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+576,chat,เหนือ,ในขณะที่มัวแต่เพลินอยู่กับการรังสรรค์เมืองนครพิงค์ให้อลังการอยู่นั้น ,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+577,chat,เหนือ,นางอั้วมิ่งเวียงไชยกลับตรอมใจตายในเพศแม่ชีอย่างเงียบๆ แต่เป็นความเงียบที่เต็มไปด้วยเสียงกรีดร้องก้องสองหูให้พระญามังรายสดับยินความรวดร้าวนั้นแต่เพียงผู้เดียว,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+578,chat,เหนือ,"เพื่อประกาศถึงความรักอันยิ่งใหญ่ ปฐมกษัตริย์ได้สร้างเจดีย์ ""กู่คำ"" (เจดีย์เหลี่ยม) ที่เวียงกุมกาม ",left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+579,chat,เหนือ,ไว้บรรจุอัฐิของนางพระญาอั้วมิ่งเวียงไชย อนุสรณ์รักแห่งนี้ก่อเป็นเจดีย์ทรงปราสาทสูงใหญ่ประดับด้วยซุ้มพระพุทธรูป 60 องค์ เลียนแบบเจดีย์สุวรรณจังโกฏ วัดจามเทวี ลำพูน ซึ่งเชื่อว่าภายในบรรจุพระอัฐิของพระนางจามเทวี,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+580,chat,คุณ,ดูทีรึ อุตส่าห์จำลองสถูปทรงพีรามิดของยอดขัตติยนารีจามเทวี มาสร้างให้แด่นางอันเป็นที่รัก ณ วัดกู่คำ อย่างตระหง่านสมเกียรติขนาดนี้แล้ว วิญญาณของนางยังจะใจแข็งไม่ยอมเชื่อว่าพระญามังรายรู้สึกถวิลหานางมากเพียงไหนอีกก็ให้มันรู้ไป,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+581,chat,คุณ,ความรักอาจไม่ใช่สุขสิงสินะ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+582,chat,คุณ,เเล้วเรื่องที่ปรัศนีอสุนีบาตของพระญามังรายที่คุณพูดตอนเเรก ๆ ละ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+583,chat,คุณ,ที่บอกว่าอาจเกิดจาก มเหสีสององค์นะ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+584,info,,มีภารกิจส่งมาจากหน่วย TS,,,delay,0
+585,info,,เรากำลังตามหาคนสำคัญคนหนึ่งอยู่ คุณรู้ไหมว่าคือใคร?,,,delay,0
+586,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/IMG_20200131_104807.jpg,,,delay,0
+587,info,,คนในภาพคือใคร? (วิธีการตอบ) คำตอบมีสี่พยางค์ เริ่มต้นด้วย พ่อขุน...,,,answered,พ่อขุนเม็งราย
+588,info,,ถามจริงนายไม่สงสัยในความสัมพันธ์ของกษัตริย์ทั้งสามพระองค์บ้างเลยหรือ,,,delay,
+589,chat,เหนือ,พระญามังรายสวรรคตเมื่อพระชนมายุย่าง 81 พรรษา ขณะที่กำลังทรงช้างตรวจดูสารทุกข์สุกดิบของพสกนิกรกลางเวียงเชียงใหม่ และกำลังเตรียมเดินทางไปยังเมืองเชียงดาว แต่แล้วเกิดอสุนีบาตฟาดลงกลางบั้นทรวงของพระองค์ ณ บริเวณจุดที่เคยเป็นวัดสะดือเมือง (ใกล้กับอนุสาวรีย์สามกษัตริย์),left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+590,chat,เหนือ,ชาวเชียงใหม่มองว่าการสิ้นพระชนม์อย่างฉับพลันทันด่วนครั้งนี้ เกิดจากปาฏิหาริย์แรงแค้นของนางอั้วมิ่งเวียงไชย ที่ตามมาหลอกหรือจำแลงร่างขณะฝนฟ้าคะนอง ดลใจให้พระญามังรายหวนรำลึกถึงคำสาบานกับนางตอนที่แรกสยุมพรใหม่ๆ ว่าจะรักเดียวใจเดียว หากฝ่ายใดผิดวาจาขอให้ฟ้าดินลงโทษ,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+591,chat,เหนือ,"ทว่า ปราชญ์ท้องถิ่นเมืองลำพูน ""มหาสิงฆะ วรรณสัย"" กลับเชื่อว่า เป็นเพราะพระญามังรายกระทำบาปมหันต์ต่อพระพุทธศาสนามากกว่า",left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+592,chat,เหนือ,กล่าวคือช่วงที่มังรายยึดลำพูนได้นั้น พระองค์สั่งให้ทหารจุดไฟเผาองค์พระบรมธาตุหริภุญไชยถึงสามครั้งสามครา จนถูกอสุนีบาตฟาดเปรี้ยงเฉี่ยวแฉลบพระเศียรมาแล้วอย่างหวุดหวิดถึงสามคำรบ เป็นการเตือนว่าอย่าเล่นกับของสูงของศักดิ์สิทธิ์ ในที่สุดต้องทรุดตัวลงก้มกราบขอขมา แล้วหันมาทำนุบำรุงพระบรมธาตุเยี้ยงชีวิต,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+593,chat,เหนือ,"ประเด็นการเผาพระธาตุกับการนอกใจมเหสีนี้ คงต้องใช้วิจารณญาณเอาเอง ว่าข้อใดมีความสมเหตุสมผลกว่ากัน ในเมื่อกษัตริย์สมัยก่อนล้วนแต่มีชายา-นางสนมได้หลายคน ถึงขนาดเอกสารจีนได้ขนานนามแคว้นๆ หนึ่ง ที่ตั้งอยู่ตอนเหนือหริภุญไชยขึ้นไปเล็กน้อยว่า เมือง ""ปาไป่สีฟู่"" แปลว่า ""เมืองแห่งชายา-นางสนม 500 องค์"" ซึ่งก็ไม่ทราบเหมือนกันว่าหมายถึงเมืองนครพิงค์ของพระญามังรายหรือไม่",left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+594,chat,เหนือ,สิ่งที่น่าตกใจก็คือทุกวันนี้เกิดค่านิยมใหม่ที่หวังผลด้านการท่องเที่ยว โดยโปรโมตให้ผู้หญิงพาคู่รักไปสบถสาบานความรักอมตะกันที่เจดีย์กู่คำเวียงกุมกาม,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+595,chat,เหนือ,"ไม่สงสารดวงวิญญาณของนางพระญาอั้วมิ่งเวียงไชยกันบ้างหรือไร ชักจะเริ่มเขยิบภาผลักษณ์กลายเป็น ""เจ้าแม่แห่งความรัก"" ไม่ต่างจากเจ้าแม่สร้อยดอกหมากแห่งวัดพนัญเชิญเข้าไปทุกวันแล้ว",left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+596,จบตอน,,,,,delay,0
+597,chat,นักวิทย์,ฮ่า ๆ ๆ โลกนี้มันไม่เปลี่ยนเลย ไม่เคยเชื่อใครได้,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B9%8C1.png,delay,
+598,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/5%20-%20%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B9%8C%E0%B8%96%E0%B8%B9%E0%B8%81%E0%B8%88%E0%B8%B1%E0%B8%9A.jpg,,,delay,0
+599,info,,นักวิทย์โดนคนของกบฏล้อมอยู่หน้าเจดีย์ช้างล้อมทั้งตัวเขาเหมือนโดนทำร้ายมา,,,delay,
+600,chat,กบฎ,ก็ใช่! โลกนี้มองด้วยประโยชน์ คนที่หมดประโยชน์เเบบคุณก็ไม่มีค่ากับเราเเล้ว เด็ก ๆ จัดการที,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%84%E0%B8%99.png,delay,0
+601,info,,ตัดภาพมาที่ คุณ กับ เหนือ ที่เดินมาจนจะออกจากวัดอยู่เเล้ว เเต่ก็ได้ยินเสียงคนคุยกัน เหนือตัวหนักเกินไป เคลื่อนตัวลำบาก คุณเลยจำเป็นต้องซ่อน,,,delay,
+602,chat,ทหารกบฎ,หัวหน้ายังไม่สั่งฆ่า เเค่เฝ้าไว้ เเม้เคยเป็นนักวิทยาศาสตร์ที่ทำงานให้เรามาก่อน เเต่ห้ามใจอ่อนปล่อยตัวเด็ดขาด ตอนนี้คนที่รู้วิธีผลิต มีเเค่หัวหน้ากับนักวิทย์ ถ้าหนีไปได้พวกเราต้องรับผิดชอบไม่ไหวเเน่เข้าใจไหม!,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%84%E0%B8%99.png,delay,
+603,chat,ทหารกบฎ,ส่วนชายสองนั้นเเค่ไม่ให้เข้ามายุ่งเรื่องข้อมูลผลิตเครื่อง TMC ก็พอเเล้ว เราไม่มีเวลามาเล่นไล่จับกับพวกมัน ครับผู้คุมกฎ,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%84%E0%B8%99.png,pressed,
+604,chat,คุณ,ดูเหมือนนักวิทย์จะรู้ความรับการผลิตที่รัฐบาลพยายามปกปิดได้เเล้ว,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+605,chat,คุณ,นี่เราจำเป็นต้องช่วยมันจริง ๆ ใช่มัย,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+606,chat,เหนือ,คำสั่งในเเฟ้มภารกิจสั่งให้จับเป็น มันจะเป็นไปได้ไหม...,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+607,chat,เหนือ,ถ้าเราจะจับตาย...,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+608,chat,คุณ,นายมันสัตว์ป่าชัด ๆ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+609,chat,เหนือ,ถ้าที่นักวิทย์หนีออกมาได้ง่ายๆ ไม่ใช่กับเเค่กบฏคนเดียวช่วยออกมา เเต่รัฐบาลจงใจให้หนีออกมาได้ เพราะคิดว่านักวิทย์ต้องหาคำตอบได้เเน่ ๆ รอให้นักวิทย์ทำสำเร็จ เเละรอจนฝั่งกบฏไม่เห็นประโยชน์เเล้วให้พวกเราจับเป็นกลับไป เพื่อจะล้วงข้อมูลจากนักวิทย์ ให้เขาผลิตเครื่อง TMC ขึ้นมาอีกครั้ง,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+610,chat,เหนือ,ถ้าเกิดวันนึงนายต้องเลือกข้าง นายอยู่ฝั่งไหนหรือ?,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,0
+611,info,,คุณคิดในสิ่งที่เหนือถามเเต่ไม่พูดออกมา,,,pressed,
+612,chat,คุณ,เวลาเรามีไม่มาก รีบไปช่วยนักวิทย์ก่อนเถอะ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,0
+613,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B9%80%E0%B8%88%E0%B8%94%E0%B8%B5%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%A1.png,,,delay,
+614,info,,พวกคุณเเปลกใจมากที่เจดีย์ช้างล้อมไม่มีใครอยู่เลย คุณเดินรอบ ๆ เจดีย์,,,delay,
+615,chat,เหนือ,นายทำอะไร,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+616,chat,คุณ,หาหลักฐาน,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+617,chat,คุณ,เรามาช้าไป พวกนั้นไปเเล้ว นักวิทย์เองก็คงถูกเขาเอาไปด้วย,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+618,info,เหนือ,พวกกบฎได้วิธีสร้างเครื่อง TMC เเล้วพวกเขาจะอยู่ที่นี่ต่อทำไม เครื่อง TMC ของเราตอนนี้ก็ยังใช้งานไม่ได้สักเครื่อง เราต้องหานักวิทย์ให้เจอก่อนที่มันจะโดนฆ่าตายก่อนให้ได้ เเต่ต้องทำยังไง,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+619,chat,คุณ,คุณเชื่อเรื่องพลังเวลาที่อยู่ในสิ่งของโบราณไหม ก่อนผมจะรู้เรื่องอดีตของนักวิทย์ พระศิลา มีเเสงออกมา พลังงานก็สูงมากด้วย เเต่ไม่รู่ว่าเราจะดึงพลังงานออกมาใช้ยังไง,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+620,chat,เหนือ,ไม่รู้สินะเพราะยังไม่มีใครรู้ถึงวิธีการทำงานของมัน,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,0
+621,info,,พวกคุณนั่งเครียดกันอยู่ที่เจดีย์ ทำเหมือนเด็กรอกลับบ้าน ความเงียบนั้นทำให้คู่หูคุณทนไม่ไหว,,,delay,0
+622,info,,มีภารกิจส่งมาจากหน่วย TS,,,delay,0
+623,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B9%80%E0%B8%88%E0%B8%94%E0%B8%B5%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%A1.png,,,delay,0
+624,info,,เรากำลังตามหา เจดีย์รูปทรงสถาปัตยกรรมล้านนาฐานช้างล้อม องค์เจดีย์ผสมสี่เหลี่ยม และทรงกลม เปิดทองจังโก สร้างขึ้น เมื่อ พ.ศ. 1840 ครั้งที่พระญามังรายสถาปนาวัดเชียงมั่น และได้รับการบูรณะซ่อมแซมจากผู้ครองนคเชียงใหม่สืบมา กรมศลปากรขึ้นทะเบียนเป็นโบราณสถานแล้วเมื่อ พ.ศ. 2478 เเต่ทางเราทำได้เเค่จำลองเจดีย์นี้เป็นสามมิติ เเล้วก็ไม่รู้ว่ามีช้างกี่ตัว คุณช่วยหาคำตอบให้เราได้ไหม (วิธีการตอบ) ใส่เป็นตัวเลขเท่านั้น,,,answered,15
+625,info,,เจดีย์ช้างล้อม ตั้งอยู่บนฐานเขียงสี่เหลี่ยม ซ้อนลดหลั่นกัน 2 ชั้น บนฐานประดับปูนปั้นรูปช้างครึ่งตัวโดยรอบ 15 เชือก และประดับช้างประจำมุมๆ ละ 1 เชือก ,,,delay,
+626,info,เหนือ,นายรู้ไหมหน่วย TS มีไว้ทำอะไร,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,
+627,chat,เหนือ,หลังจากที่สงครามกบฎเกิดขึ้น เครื่อง TMC กระจายออกไปทั่วห่วงเวลา หน่วยนี้ก็เกิดขึ้นทั้นที หน้าที่ของหน่วยคือทำคดีลับที่เกี่ยวกับเครื่อง TMC ศึกษาโลกของเวลาปกป้องไม่ให้ปั่นป่วน รวมรวมเอาเครื่อง TMC กลับมาที่เดิม,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+628,chat,คุณ,(ที่เดิมก็ให้รัฐบาลอยู่ดี เขาจะรู้ไหมนะว่าหน้าที่หน่วยมันก็เเค่คำสวยหรูจากรัฐบาลที่ต้องการใช้ประโยชน์จากคน),right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+629,chat,คุณ,จริงสิ เดินดูรอบ ๆ เจดีย์ ตั้งอยู่บนฐานสี่เหลี่ยม ซ้อนกัน 2 ชั้น ด้านล่างก็อาจจะมีห้องลับได้ เอาหูเเนบกับพื้น,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+630,chat,เหนือ,นี่นายหิวข้าวจนเพ้องั้นหรือ?,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+631,chat,คุณ,ด้านล่างมีห้องลับเเน่,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+632,chat,เหนือ,นายรู้ได้ยังไง,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+633,chat,คุณ,บนฐานมีปูนปั้นช้างครึ่งตัวรอบ ๆ มี 15 ตัว และมีช้างประจำมุมอีก1 ตัว เจดีย์ผสมสี่เหลี่ยมและทรงกลมปิดทองจังโก น่าจะสร้างขึ้น เมื่อ พ.ศ. 1840ช่วงที่พระญามังรายสร้างวัดเชียงมั่นกับเมืองเชียงใหม่,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+634,chat,คุณ,ที่ตรงนี้เองก็เคยเป็นหอนอนของท่านตอนที่กำลังสร้างเมือง,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+635,chat,คุณ,ทิศตะวันออกมีบันไดนาค ยาวจากฐานเขียงชั้น 2 ลงมาถึงพื้น,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+636,chat,เหนือ,นายผีเข้าเเล้วละ มันไม่เห็นมีอะ..,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,0
+637,info,,ด้วยความไม่ระวังเหนือพิงช้างที่อยู่ข้าง ๆ เขา เเล้วเขาก็ตกลงไปด้านล่าง,,,delay,
+638,info_,,https://storage.googleapis.com/ancestral-lens.appspot.com/5%20-%20%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%95%E0%B8%B9%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%88%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%A1.jpg,,,pressed,
+639,chat,คุณ,ว่าเเล้วเชียว,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+640,chat,เหนือ,โอย เจ็บ ๆ ไม่ห่วงคู่หูนายเลยหรอ ดูสิพื้นนี่ทำฉันเจ็บนะ,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+641,chat,คุณ,เรื่องของคุณ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+642,chat,เหนือ,… ครับ ๆ,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+643,chat,คุณ,คุณรู้ทางเข้าได้ยังไง,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+644,chat,เหนือ,(ความจริงคือบังเอิญ) ก็คนมันเก่งนี่ ฮ่า ๆ ๆ,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,pressed,
+645,chat,คุณ,เพราะคุณ ทำให้เราเจอเขาเร็วกว่าที่คิดนะ,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+646,chat,เหนือ,(ยิ้ม),left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9.png,delay,0
+647,info,,คุณมองไปที่นักวิทย์ที่โดนจับอยู่ด้านหน้า,,,pressed,
+648,chat,คุณ,ที่คุณถามผมว่าจะเลือกฝั่งไหนนะ ถ้าจะอยู่ฝั่งกบฎ พวกเขาสุดโต่งเกินไป ในบางเรื่องก็อาจทำให้คนตายได้ รัฐเองก็เจ้าเล่ งั้นผมขอเลือกอยู่ฝั่งกับคุณดีกว่า,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,pressed,
+649,chat,คุณ,คดีเเรกของผมก็ได้จบลง เราส่งนักวิทย์ให้ทางการ ถึงเเม้หลังจากที่จับเขาได้เราต้องนั่งรอเครื่องTMCตั้งสามชั่วโมงเเนะ เหนือกลายเป็นคู่หูผม พวกเราทำงานให้รัฐบาล เเต่ก็ทำงานให้ตัวเองด้วย เราสืบจนเข้าใกล้พวกกบฎขึ้นเรื่อย ๆ สืบเรื่องสงครามเเละเครื่อง TMC เมื่อ 14 ปีก่อน เเละเรื่องสุดท้ายสืบเรื่องตัวผม,right,https://storage.googleapis.com/ancestral-lens.appspot.com/CC_20200131_011018.png,delay,
+650,chat,ผู้กอง,ไปหาทางนั้นในระยะ 100 เมตร !,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%97%E0%B8%AB%E0%B8%B2%E0%B8%A31.png,delay,
+651,chat,ทหารรัฐบาล,ผู้กองนั้นเป็นสัญญาณติดตัวปลอมของนักวิทย์ ตอนนี้เขาหายไปเเล้ว,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%97%E0%B8%AB%E0%B8%B2%E0%B8%A31.png,delay,
+652,chat,ผู้กอง,คนจะหายไปได้ยังไง หาต่อ!,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%97%E0%B8%AB%E0%B8%B2%E0%B8%A31.png,delay,
+653,chat,ทหารรัฐบาล,ครับ !,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%97%E0%B8%AB%E0%B8%B2%E0%B8%A3.png,delay,
+654,chat,ผู้กอง,เเจ้งหน่วย TS ด้วย!,left,https://storage.googleapis.com/ancestral-lens.appspot.com/%E0%B8%97%E0%B8%AB%E0%B8%B2%E0%B8%A31.png,delay,0
+655,info,,เเหล่งอ้างอิง เเละข้อมูลที่น่าสนใจ,,,delay,0
+656,info,,"<a target=""_blank"" href=""https://www.matichonweekly.com/culture/article_19545"">อ้างอิง</a>",,,delay,0
+657,info,,ปริศนาโบราณคดี : ส่งท้าย “777 ปีชาตกาลพระญามังราย” ภารกิจสะสางประวัติศาสตร์ยังไม่จบสิ้น (2),,,delay,0
+658,info,,"<a target=""_blank"" href=""https://www.matichonweekly.com/culture/article_20352"">อ้างอิง</a>",,,delay,0
+659,info,,ปริศนาโบราณคดี : ส่งท้าย “777 ปีชาตกาลพระญามังราย” แต่ภารกิจการชำระสะสางประวัติศาสตร์ยังไม่จบสิ้น (3),,,delay,0
+660,info,,"<a target=""_blank"" href=""https://www.matichonweekly.com/column/article_20918"">อ้างอิง</a>",,,delay,0
+661,info,,ปริศนาโบราณคดี : ส่งท้าย “777 ปีชาตกาลพระญามังราย” แต่ภารกิจการชำระสะสางประวัติศาสตร์ยังไม่จบสิ้น (4),,,delay,0
+662,info,,"<a target=""_blank"" href=""https://www.matichonweekly.com/column/article_21759"">อ้างอิง</a>",,,delay,0
+663,info,,ปริศนาโบราณคดี : เสวนา 777 ปีชาตกาลพระญามังราย” กับภารกิจการชำระสะสางประวัติศาสตร์ล้านนา (5),,,delay,0
+664,info,,"<a target=""_blank"" href=""https://www.matichonweekly.com/column/article_22691"">อ้างอิง</a>",,,delay,0
+665,info,,ปริศนาโบราณคดี : เสวนา 777 ปีชาตกาลพระญามังราย” กับภารกิจการชำระสะสางประวัติศาสตร์ล้านนา (6),,,delay,0
+666,info,,"<a target=""_blank"" href=""https://www.matichonweekly.com/column/article_23678"">อ้างอิง</a>",,,delay,0
+667,info,,ปริศนาโบราณคดี : เสวนา 777 ปีชาตกาลพระญามังราย” กับภารกิจการชำระสะสางประวัติศาสตร์ล้านนา (7),,,delay,0
+668,info,,"<a target=""_blank"" href=""https://www.matichonweekly.com/column/article_24241"">อ้างอิง</a>",,,delay,0
+669,info,,ปริศนาโบราณคดี : เสวนา 777 ปีชาตกาลพระญามังราย” กับภารกิจการชำระสะสางประวัติศาสตร์ล้านนา (จบ),,,delay,0
+670,info,,"<a target=""_blank"" href=""https://db.sac.or.th/inscriptions/inscribe/detail/1424"">อ้างอิง</a>",,,delay,0
+671,info,,จารึกวัดเชียงมั่น,,,delay,0
+672,info,,"<a target=""_blank"" href=""https://prachatai.com/journal/2012/08/42261"">อ้างอิง</a>",,,delay,0
+673,info,,"750 ปี “พระญามังราย"" หรือ ""พ่อขุนเม็งราย""?",,,delay,0
+674,info,,"<a target=""_blank"" href=""https://th.wikipedia.org/wiki/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%B2"">อ้างอิง</a>",,,delay,0
+675,info,,พระศิลา,,,delay,0
+676,info,,"<a target=""_blank"" href=""http://botkwamdee.blogspot.com/2012/03/p507wy.html"">อ้างอิง</a>",,,delay,0
+677,info,,อั้วมิ่งเวียงไชย - อุสาปายโค รักสองต้องห้ามของพระญามังราย โดย เพ็ญสุภา สุขคตะ ใจอินทร์,,,delay,0
+678,info,,"<a target=""_blank"" href=""https://th.wikipedia.org/wiki/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%B2"">อ้างอิง</a>",,,delay,0
+679,info,,ตำนานพระแก้วขาวกับพระศิลา วัดเชียงมั่น จังหวัดเชียงใหม่. 2544. พิมพ์เนื่องในโอกาสฉลองสมโภชอุโบสถวัดเชียงมั่น เมืองเชียงใหม่ 700 ปี.,,,delay,0
+680,info,,"<a target=""_blank"" href=""https://www.matichonweekly.com/in-depth/article_39855"">อ้างอิง</a>",,,delay,0
+681,info,,เวียงชะแว่-แจ้เจียงกุ๋ม,,,delay,0
+682,info,,"<a target=""_blank"" href=""https://th.wikipedia.org/wiki/%E0%B8%9E%E0%B8%8D%E0%B8%B2%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2#%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94"">อ้างอิง</a>",,,delay,0
+683,info,,วิกิ พระญามังราย,,,delay,0
+684,info,,สำหรับเนื้อเรื่องของสถานที่แรกในเกมจบไปแล้วนะคะ ถ้าชอบติดตามได้ทาง Facebook @Ancestral Lens นะคะ,,,pressed,

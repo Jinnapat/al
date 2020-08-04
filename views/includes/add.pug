@@ -1,0 +1,67 @@
+div(id="create-story-pane", class="pane w3-border w3-white w3-padding-small w3-display-container")
+    div(class="w3-padding-small", style="width: 100%; height: 100%")
+        div(id="map-select", style="height: 300px")
+        p ชื่อสถานที่
+        input(name="place-name", type="text", class="w3-input w3-border w3-margin-bottom")
+        p ชื่อเรื่อง
+        input(name="story-name", type="text", class="w3-input w3-border w3-margin-bottom")
+        div(class="w3-row", style="position: absolute; bottom: 10px; left: 10px; right: 10px; height: 40px;")
+            div(class="w3-btn w3-red w3-col s4 closeBtn") ยกเลิก
+            div(class="w3-btn w3-black w3-col s4", id="edit-story-btn") เนื้อเรื่อง
+            div(class="w3-btn w3-blue w3-col s4", id="save-story") บันทึก
+            
+div(id="write-pane",  class="pane w3-border w3-white w3-padding-small w3-display-container")
+    div(class="w3-padding-small", style="width: 100%; height: 100%")
+        div(id="character-list", class="w3-border content w3-padding-small", style="top: 10px; height: 80px; overflow-x: scroll; white-space: nowrap;")
+            div(class="w3-display-container character-container")
+                div(class="w3-display-container icon w3-circle w3-blue w3-display-middle", id="add-character")
+                    i(class="fa fa-plus w3-display-middle")
+
+        div(class="w3-border w3-padding-small content scrollable", style="top: 100px; bottom: 60px", id="add-message-list")
+            div(id="add-message-tool", class="w3-padding w3-display-container", style="height: 80px")
+                div(class="w3-display-middle w3-row", style="width: 80px")
+                    div(class="w3-display-container square-button w3-col s6", id="add-chat-btn")
+                        i(class="fa fa-comment w3-display-middle")
+                    div(class="w3-display-container square-button w3-col s6", id="add-info-btn")
+                        i(class="fa fa-info w3-display-middle")
+
+        div(class="w3-row", style="position: absolute; bottom: 10px; left: 10px; right: 10px; height: 40px;")
+            div(class="w3-btn w3-red w3-col s6 closeBtn") ยกเลิก
+            div(class="w3-btn w3-blue w3-col s6", id="save-line") บันทึก
+
+div(id="create-character-pane", class="pane-small w3-border w3-white w3-padding scrollable", style="bottom: 30px;")
+    p ชื่อตัวละคร
+    input(id="character-name", type="text", class="w3-input w3-border w3-margin-bottom")
+    p ภาพตัวละคร
+    div(style="height: 300px", class="w3-border scrollable", id="character-icon-select")
+    div(class="w3-row  w3-margin-bottom")
+        div(class="w3-col s6 w3-btn w3-black closeSmallBtn") ยกเลิก
+        div(class="w3-col s6 w3-btn w3-blue", id="save-character-btn") ยืนยัน
+        
+div(id="edit-character-pane", class="pane-small w3-border w3-white w3-padding w3-display-container")
+    div(id="character-select", class="w3-border scrollable", style="height: 400px")
+    div(class="w3-row  w3-margin-bottom")
+        div(class="w3-col s6 w3-btn w3-black closeSmallBtn") ยกเลิก
+        div(class="w3-col s6 w3-btn w3-blue", id="edit-character-btn") ยืนยัน
+
+div(id="edit-message-pane", class="pane-small w3-border w3-white w3-padding w3-display-container")
+    p ข้อความ
+    textarea(id="edit-message-text", type="text", class="w3-input w3-border w3-margin-bottom", style="resize: none; height: 200px;")
+    
+    div(class="w3-row  w3-margin-bottom")
+        div(class="w3-col s6 w3-btn w3-black closeSmallBtn") ยกเลิก
+        div(class="w3-col s6 w3-btn w3-blue", id="edit-message-btn") ยืนยัน
+    
+div(id="edit-condition-pane", class="pane-small w3-border w3-white w3-padding w3-margin-bottom")
+    p เงื่อนไข
+    select(class="w3-select w3-black", name="add-condition")
+        option(value="pressed", selected) Pressed
+        option(value="delay") Delay
+        option(value="answered") Answered
+    
+    p การตั้งค่า
+    input(id="condition-setting", type="text", class="w3-input w3-border w3-margin-bottom")
+        
+    div(class="w3-row  w3-margin-bottom")
+        div(class="w3-col s6 w3-btn w3-black closeSmallBtn") ยกเลิก
+        div(class="w3-col s6 w3-btn w3-blue", id="edit-condition-btn") ยืนยัน

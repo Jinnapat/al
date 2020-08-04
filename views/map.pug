@@ -1,0 +1,25 @@
+doctype html
+html
+    head
+        include includes/head.pug
+        link(rel="stylesheet", href="https://cdn.jsdelivr.net/npm/leaflet@1.0.3/dist/leaflet.css")
+        link(rel="stylesheet", href="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol@0.72.0/dist/L.Control.Locate.min.css")
+        link(rel="stylesheet", href="https://cdn.jsdelivr.net/npm/leaflet-routing-machine@3.2.11/dist/leaflet-routing-machine.min.css")
+        link(rel="stylesheet", href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css")
+        script(src="https://cdn.jsdelivr.net/npm/leaflet@1.0.3/dist/leaflet.js")
+        script(src="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol@0.72.0/src/L.Control.Locate.min.js")
+        script(src="https://cdn.jsdelivr.net/npm/leaflet-routing-machine@3.2.11/dist/leaflet-routing-machine.min.js")
+    body(style="margin: 0; width: 100%; height: 100vh; overflow: hidden;")
+        div(id="mymap", style="width: 100%; height: 100%;")
+        
+        include includes/profile.pug
+        
+        include includes/manual.pug
+        
+        include includes/forum.pug
+        
+        include includes/quest.pug
+        
+        include includes/add.pug
+        
+        script(src="js/bundle.js")

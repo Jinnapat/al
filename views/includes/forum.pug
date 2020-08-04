@@ -1,0 +1,44 @@
+div(id="forum-pane",  class="w3-padding-small")
+    div(id="forum-search", class="w3-padding-small w3-border")
+        div(class="w3-row")
+            div(class="w3-col s10")
+                input(name="search-topic", type="text", class="w3-input w3-border", placeholder="ค้นหาโพสท์")
+            
+            div(class="w3-col s2")
+                button(class="w3-btn w3-blue", id="search-button")
+                    i(class="fa fa-search")
+
+        div(class="square-button w3-display-container w3-margin-top", id="create-forum-btn")
+            i(class="fa fa-plus w3-display-middle")
+    
+    div(id="search-list", class="w3-border content scrollable", style="top: 120px; bottom: 10px;")
+
+div(id="post-list-pane",  class="pane w3-border w3-white")
+    div(style="top: 10px; height: 60px", class="content w3-display-container")
+        i(class="closeBtn fa fa-times w3-xxlarge w3-display-left w3-margin-left")
+        div(class="square-button w3-display-container w3-display-right")
+            i(class="fa fa-plus w3-display-middle")
+
+    div(style="top: 70px; bottom: 60px", id ="post-list", class="w3-border content scrollable")
+    div(style="bottom: 10px; height: 40px; overflow-x: scroll; white-space: nowrap;", id="page-list", class="content")
+        div(class="w3-blue w3-border square-button w3-center page-button") 1
+
+div(id="create-forum-pane", class="pane-small w3-border w3-white w3-padding w3-display-container")
+    p ชื่อการสนทนา
+    input(id="forum-name", type="text", class="w3-input w3-border w3-margin-bottom")
+
+    p ข้อความ
+    textarea(id="forum-post", type="text", class="w3-input w3-border w3-margin-bottom", style="resize: none; height: 200px;")
+    div(class="w3-row")
+        div(class="w3-col s6 w3-btn w3-black closeSmallBtn") ยกเลิก
+        div(class="w3-col s6 w3-btn w3-blue", id="save-forum-btn") ยืนยัน
+        
+div(id="create-post-pane", class="pane-small w3-border w3-white w3-padding w3-display-container")
+    p title
+    input(name="character-name", type="text", class="w3-input w3-border w3-margin-bottom")
+
+    p post
+    textarea(name="icon-1", type="text", class="w3-input w3-border w3-margin-bottom", style="resize: none; height: 200px;")
+    div(class="w3-row")
+        div(class="w3-col s6 w3-btn w3-black closeSmallBtn") cancel
+        div(class="w3-col s6 w3-btn w3-blue", id="create-character-btn") post

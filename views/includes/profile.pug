@@ -1,0 +1,59 @@
+div(id="profile-pane", style="overflow-y: scroll")
+    div(class="w3-display-container", style="height: 250px")
+        div(class="w3-margin")
+            div(class="w3-display-container square-button", id="home-btn")
+                i(class="fa fa-home w3-display-middle")
+            
+            div(class="w3-display-container square-button", id="search-user-btn")
+                i(class="fa fa-search w3-display-middle")
+            
+            div(class="w3-display-container square-button", id="log-out-btn")
+                i(class="fa fa-sign-out-alt w3-display-middle")
+            
+        
+        div(class="w3-display-bottomleft  w3-margin")
+            div(class="w3-display-container square-button", id="write-btn")
+                i(class="fa fa-pen w3-display-middle")
+            
+            div(class="w3-display-container square-button", id="image-btn")
+                i(class="fa fa-image w3-display-middle")
+            
+        
+        h1(class="w3-display-topmiddle w3-xlarge") Profile
+        img(src="icon/al_logo.png", class="w3-display-middle", style="width: 150px; height: 150px;")
+        h2(class="w3-display-bottommiddle w3-large") AL team
+    
+    div(class="w3-row")
+        div(class="w3-col s4 w3-padding-small w3-border w3-blue w3-center", id="following-btn")
+            b(class="w3-xlarge") 0
+            p(class="w3-small", style="margin-top: 0") Following
+        
+        div(class="w3-col s4 w3-padding-small w3-border w3-blue w3-center", id="followers-btn")
+            b(class="w3-xlarge") 0
+            p(class="w3-small", style="margin-top: 0") Followers
+        
+        div(class="w3-col s4 w3-padding-small w3-border w3-blue w3-center", id="posts-btn")
+            b(class="w3-xlarge") 0
+            p(class="w3-small", style="margin-top: 0") Posts
+        
+    div(class="w3-border w3-padding-small", id="work-pane")
+
+div(id="following-pane",  class="pane w3-border w3-white w3-padding-small w3-display-container")
+    i(class="closeBtn fa fa-times w3-display-topleft w3-margin w3-xxlarge")
+    div(style="top: 60px; bottom: 10px;", class="w3-border content scrollable", id="following-content")
+
+div(id="followers-pane",  class="pane w3-border w3-white w3-padding-small w3-display-container")
+    i(class="closeBtn fa fa-times w3-display-topleft w3-margin w3-xxlarge")
+    div(style="top: 60px; bottom: 10px;", class="w3-border content scrollable", id="followers-content")
+
+div(id="posts-pane",  class="pane w3-border w3-white w3-padding-small w3-display-container")
+    i(class="closeBtn fa fa-times w3-display-topleft w3-margin w3-xxlarge")
+    div(style="top: 60px; bottom: 10px;", class="w3-border content scrollable", id="posts-content")
+
+div(id="image-pane",  class="pane w3-border w3-white w3-padding-small w3-display-container")
+    i(class="closeBtn fa fa-times w3-display-topleft w3-margin w3-xxlarge")
+    div(style="top: 60px; bottom: 10px;", class="w3-border content")
+        p เลือกรูปภาพ
+        form(id="profile-pick", enctype="multipart/form-data")
+            input(class="w3-input", type="file", name="data")
+            div(class="w3-button w3-black", id="image-confirm-btn") อัพโฟลดภาพ

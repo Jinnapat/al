@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ancestral Lens</title>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <style>
+      body {
+        overflow: hidden;
+        background-color: black;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="w3-content" id="slideShow" onclick="plusDivs()"></div>
+    <script>
+      const slideElem = document.getElementById("slideShow");
+      for (let i=14; i >= 1; i--) {
+        let imgElem = document.createElement("img");
+        imgElem.classList.add("mySlides");
+        imgElem.classList.add("w3-animate-bottom");
+        imgElem.src = "image/Page_" + (i < 10 ? "0" + i.toString() : i.toString()) + ".png";
+        imgElem.style.width = "100%";
+        slideElem.insertBefore(imgElem, slideElem.childNodes[0]);
+      }
+    </script>
+    <script>
+      var slideIndex = 1;
+      showDivs(slideIndex);
+
+      function plusDivs() {
+        showDivs(slideIndex += 1);
+      }
+
+      function showDivs(n) {
+        var x = document.getElementsByClassName("mySlides");
+        if (n > x.length) {window.location.replace("/")}
+        for (let i = 0; i < x.length; i++) {
+          x[i].style.display = "none";
+        }
+        x[slideIndex-1].style.display = "block";
+      }
+    </script>
+  </body>
+</html>

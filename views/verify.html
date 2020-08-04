@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Ancestral Lens</title>
+		<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+		<style>
+			body {
+				height: 100vh;
+				background-image: url("image/tiled_background.jpg");
+				display: flex;
+			  align-items: center;
+			  justify-content: center;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="login-form w3-card-2 w3-white w3-round-large w3-animate-top w3-center w3-padding">
+			<br><h1>Almost there!</h1>
+			<h3>verify your email</h3><br>
+			<form name="myForm" action="." method="GET" class="w3-margin">
+				<input type="text" name="email" placeholder="Email" class="w3-input">
+				<input type="text" name="code" placeholder="Code" class="w3-margin-top w3-input">
+				<br>
+				<input type="button" value="CONFIRM" onclick="validateForm()" class="w3-button w3-block w3-black w3-round-xxlarge w3-section">
+			</form>
+			<p><br>Find your code in your email. <a href="/">login</a></p>
+		</div>
+		<script src="/js/verify.js"></script>
+	</body>
+</html>

@@ -1,0 +1,10 @@
+div(id="chat-pane")
+            div(id="story-message", style="overflow-y: scroll; position: absolute; top: 0; bottom: 50px;")
+                div(id="whitespace")
+            div(style="position: absolute; bottom: 50px; width: 100%")
+                div(id="loader")
+                p(class="w3-center", style="display: none", id="press") press to continue
+            div(class="w3-row", style="position: absolute; bottom: 0; width: 100%")
+                input(type="text", name="message", class="w3-input w3-border w3-col s10", id="sendBox")
+                button(class="w3-btn w3-blue w3-col s2", id="sendBtn")
+                    i(class="fa fa-paper-plane")
